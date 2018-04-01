@@ -3,9 +3,21 @@
 * {
   /* transition: all 0.5s ease; */
 }
+.text-align-center {
+  text-align: center;
+}
 a:hover {
   text-decoration: none;
   color: #000;
+}
+a {
+  color: inherit;
+}
+.width-100 {
+  width: 100%;
+}
+.font-80 {
+  font-size: 80px;
 }
 .navbar-show {
   background-color: #222;
@@ -24,13 +36,18 @@ a:hover {
   background-color: #6d6d6d;
   color: #fff;
 }
+.nav {
+  background-color: #222;
+}
 .header-style {
   position: relative;
   padding-top: 150px;
   padding-bottom: 150px;
   background-color: #222;
+  background-image: url('../img/gold-horizons-large-36.jpg');
+  min-height: 700px;
+  margin-top: -70px;
 }
-
 .index-nav .nav > .nav-item a {
   color: #ffffff;
 }
@@ -46,6 +63,10 @@ a:hover {
   font-weight: 900;
   text-transform: uppercase;
 }
+.fa-angle-down {
+  margin-top: 7px; color: white; font-size: 1.5em;
+}
+
 hr {
   max-width: 100px;
   height: 2px;
@@ -84,13 +105,13 @@ hr {
   background-color: #222;
   padding: 50px 0;
 }
-
 .footer {
   padding: 200px 0;
   background-color: #222;
   background-size: cover;
   color: #fff;
   min-height: 700px;
+  background-image: url('../img/pirate-ship-background.jpg');
 }
 
 .footer a {
@@ -148,13 +169,12 @@ a.anchor-offset {
 .container {
   position: relative;
 }
+.container-me {
+  visibility: visible;
+  animation-name: fadeIn;
+}
 .portfolio-wrapper img {
   border-radius: 7px;
-}
-
-/* Porfolio Pages */
-.page-section {
-  padding: 150px 0;
 }
 .nav {
   min-height: 70px;
@@ -183,8 +203,10 @@ a.anchor-offset {
 @media (min-width: 992px) {
   .header-style {
     height: 100vh;
+    width: 100vw;
     padding-top: 0;
     padding-bottom: 0;
+    top: 0;
   }
   .header-title {
     margin-top: -120px;
