@@ -45,6 +45,7 @@ a {
   padding-bottom: 150px;
   background-color: #222;
   background-image: url('../img/gold-horizons-large-36.jpg');
+  background-repeat: no-repeat;
   min-height: 700px;
   margin-top: -70px;
 }
