@@ -14,7 +14,7 @@
   <script src="assets/js/index.js"></script>
 
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
   <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,900" rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
@@ -68,7 +68,7 @@
     <div class="container container-me">
       <div class="row">
         <div class="col-lg-6">
-          <img src="/assets/images/cbc49efe08f8da5e228140ee31af37c2.jpg" class="img-fluid rounded my-5" alt="painting-golden-horizon">
+          <img src="assets/img/me-painting-golden-horizon.jpg" class="img-fluid rounded my-5" alt="painting-golden-horizon">
         </div>
         <div class="col-lg-6 text-center my-auto">
           <h1>Hi, I'm Matt Norkaitis</h1>
@@ -87,7 +87,7 @@
         <div class="col-lg-3 col-md-6">
           <a href="/digital-art">
             <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100">
-              <img src="/assets/images/b3814adb8adbae863aa0af8e161f5cc9.png" alt="Artist Pallet">
+              <img src="assets/img/artist-pallet.png" alt="Artist Pallet">
               <h3>Digital Art</h3>
               <p class="mb-0">Digital Painting with Photoshop</p>
             </div>
@@ -96,7 +96,7 @@
         <div class="col-lg-3 col-md-6">
           <a href="/modeling">
             <div class="px-4 pb-4 pb-lg-0 h-100">
-              <img src="/assets/images/18c2c9e996741e7e6bc3b70cb634dc38.png" alt="3d Shape">
+              <img src="assets/img/3d-shape.png" alt="3d Shape">
               <h3>3d Modeling</h3>
               <p class="mb-0">3d modeling for architecture and entertainment.</p>
             </div>
@@ -105,7 +105,7 @@
         <div class="col-lg-3 col-md-6">
           <a href="/front-end-dev">
             <div class="px-4 pb-4 pb-lg-0 h-100">
-              <img src="/assets/images/04d1bfe514fae1f414ee59d6c8fd1b83.png" alt="Closing Braces">
+              <img src="assets/img/closing-braces.png" alt="Closing Braces">
               <h3>Front-End Development</h3>
               <p class="mb-0">Web creation with html/css/oop javascript.</p>
             </div>
@@ -114,7 +114,7 @@
         <div class="col-lg-3 col-md-6">
           <a href="/photo-manipulation-photoshop">
             <div class="wow fadeIn px-4 h-100">
-              <img src="/assets/images/82c878c76de7dc3ae50b95305e79c1bd.png" alt="Photoshop Logo">
+              <img src="assets/img/photo-add-subtract.png" alt="Photoshop Logo">
               <h3>Photo Manipulation</h3>
               <p class="mb-0">Adding/subtracting/modifying images with photoshop</p>
             </div>
