@@ -126,52 +126,20 @@
   <div>
     <section id="contact" class="page-section form-container">
       <div class="container">
-        <div class="text-center">
+        
+      <div class="text-center">
           <h2>Contact Me</h2>
           <p>Thanks for being here! -Matt</p>
-        </div>
-        <div class="row mt-4">
-          <div class="col-lg-8 mx-auto">
-            <div class="row control-group">
-              <div class="form-group col-12 floating-label-form-group controls">
-                <label>Name</label>
-                <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            <div class="row control-group">
-              <div class="form-group col-12 floating-label-form-group controls">
-                <label>Email Address</label>
-                <p class="help-block text-danger">
-                </p>
-              </div>
-            </div>
-            <div class="row control-group">
-              <div class="form-group col-12 floating-label-form-group controls">
-                <label>Phone Number</label>
-                <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            <div class="row control-group">
-              <div class="form-group col-12 floating-label-form-group controls">
-                <label>Message</label>
-                <textarea rows="5" class="form-control" placeholder="Message" id="message" data-validation-required-message="Please enter a message."
-                  data-fillr-id="105627" data-fillr="bound" autocomplete="off">
-
-                </textarea>
-                <p class="help-block text-danger">
-                </p>
-              </div>
-            </div>
-            <br>
-            <div id="success">
-            </div>
-            <div class="row">
-              <div class="form-group col-12">
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
+
+      <div class="row justify-content-md-center">
+          
+      <a href="https://www.linkedin.com/in/matthew-norkaitis-8a0a0831"><div style="display: inline-block; padding: 40px;"><img src="assets/img/linkedin-logo.png" alt="LinkedIn Logo"></div></a>
+      <a href="https://github.com/gamesmartz"><div style="display: inline-block; padding: 40px;"><img src="assets/img/github-logo.png" alt="GitHub Logo"></div></a>
+
+    </div>
+
+      
     </section>
   </div>
   <footer class="footer">
@@ -210,10 +178,7 @@
     </div>
   </footer>
   </div>
-  <!-- react-empty: 102 -->
-  <!-- react-empty: 103 -->
-  <!-- react-empty: 104 -->
-  <!-- react-empty: 105 -->
+  
   </div>
   </div>
   <script src="/bundle.js"></script>
