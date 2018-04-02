@@ -16,7 +16,8 @@
       <div class="row h-100">
         <div class="col-12 my-auto text-center text-white">
           <div class="header-title">Matt Norkaitis</div>
-          <div class="masthead-subtitle">3d Modeler / Photoshop Artist / Front-End Developer</div>
+          <div class="masthead-subtitle">Company: Tech Magic</div>
+          <div class="masthead-subtitle">Consultant - 3d Modeler / Photoshop Artist / Front-End Developer</div>
         </div>
       </div>
     </div>
@@ -39,7 +40,7 @@
         <div class="col-lg-6">
         <a href="digital-art.php"> <img src="assets/img/me-painting-golden-horizon.jpg" class="img-fluid rounded my-5" alt="painting-golden-horizon"></a>
         </div>
-                
+
         <div class="col-lg-6 text-center my-auto">
           <h1>Hi, I'm Matt Norkaitis</h1>
           <p>I am an Artist living in Irvine Ca. Thanks for being here!</p>
