@@ -107,12 +107,15 @@ hr {
   padding: 50px 0;
 }
 .footer {
-  padding: 75px 0;
+  padding: 120px 0;
   background-color: #222;
   background-size: cover;
   color: #4f6a3e;
   min-height: 700px;
   background-image: url('../img/pirate-ship-background.jpg');
+}
+.footer a:hover {
+  color: #b3b640;
 }
 
 .thick-bold-raleway {
@@ -170,6 +173,13 @@ a.anchor-offset {
 .nav .nav-item {
   margin-right: 15px;
 }
+.contact-links {
+  display: inline-block; 
+  padding: 40px;
+}
+
+
+/* RESPONSIVE */
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
   .header-title {
@@ -180,6 +190,7 @@ a.anchor-offset {
 #portfolio .row {
   margin-top: 60px;
 }
+
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
