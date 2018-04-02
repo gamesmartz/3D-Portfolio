@@ -56,7 +56,7 @@
       </div>
       <div class="row text-center">
         <div class="col-lg-3 col-md-6">
-          <a href="/digital-art">
+          <a href="digital-art.php">
             <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100">
               <img src="assets/img/artist-pallet.png" alt="Artist Pallet">
               <h3>Digital Art</h3>
@@ -65,7 +65,7 @@
           </a>
         </div>
         <div class="col-lg-3 col-md-6">
-          <a href="/modeling">
+          <a href="3d-modeling.php">
             <div class="px-4 pb-4 pb-lg-0 h-100">
               <img src="assets/img/3d-shape.png" alt="3d Shape">
               <h3>3d Modeling</h3>
@@ -74,7 +74,7 @@
           </a>
         </div>
         <div class="col-lg-3 col-md-6">
-          <a href="/front-end-dev">
+          <a href="front-end-dev.php">
             <div class="px-4 pb-4 pb-lg-0 h-100">
               <img src="assets/img/closing-braces.png" alt="Closing Braces">
               <h3>Front-End Development</h3>
@@ -83,7 +83,7 @@
           </a>
         </div>
         <div class="col-lg-3 col-md-6">
-          <a href="/photo-manipulation-photoshop">
+          <a href="photo-manipulation.php">
             <div class="wow fadeIn px-4 h-100">
               <img src="assets/img/photo-add-subtract.png" alt="Photoshop Logo">
               <h3>Photo Manipulation</h3>

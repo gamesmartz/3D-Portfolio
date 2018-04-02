@@ -107,10 +107,10 @@ hr {
   padding: 50px 0;
 }
 .footer {
-  padding: 120px 0;
+  padding: 100px 0;
   background-color: #222;
   background-size: cover;
-  color: #4f6a3e;
+  color: #6a8759;
   min-height: 700px;
   background-image: url('../img/pirate-ship-background.jpg');
 }
@@ -177,7 +177,9 @@ a.anchor-offset {
   display: inline-block; 
   padding: 40px;
 }
-
+.portfolio-chevron-right:hover, .portfolio-chevron-left:hover {
+  color: #ffc107;
+}
 
 /* RESPONSIVE */
 /* Small devices (landscape phones, 576px and up) */
