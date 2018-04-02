@@ -107,25 +107,12 @@ hr {
   padding: 50px 0;
 }
 .footer {
-  padding: 200px 0;
+  padding: 75px 0;
   background-color: #222;
   background-size: cover;
-  color: #fff;
+  color: #4f6a3e;
   min-height: 700px;
   background-image: url('../img/pirate-ship-background.jpg');
-}
-
-.footer a {
-  color: #fff;
-}
-
-.footer a:hover {
-  color: #fff;
-}
-
-.icon {
-  font-size: 2em;
-  margin: 0 25px;
 }
 
 .thick-bold-raleway {
