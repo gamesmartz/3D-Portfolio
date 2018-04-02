@@ -1,51 +1,17 @@
-<!doctype html>
-<html lang="en">
-
-<head>
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+  <?php 
+    include ('modules/head.php') 
+  ?> 
   <title>Matt Norkaitis - Portfolio</title>
-
-  <script src="http://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous">
-  </script>
-  <script src="assets/js/bootstrap.min.js"></script>
-  <script src="assets/js/index.js"></script>
-
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
-  <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,900" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-
-  <!-- Optional JavaScript -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-    crossorigin="anonymous"></script>
-
-  <script>
-    $(document).ready(function () {
-      // console.log('document loaded');
-    })
-  </script>
-
 </head>
 
 <body style="position: relative; " data-spy="scroll" data-target=".navbar" data-offset="50">
-  <div id="navbar-target" class="container-fluid index-nav navbar">
-    <ul class="nav hidden-nav d-flex fixed-top align-items-center justify-content-end nav-bar-shrink">
-      <li class="nav-item">
-        <a class="nav-link  active" href="#header-target">Home</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link " href="#portfolio">Portfolios</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#contact">Contact</a>
-      </li>
-    </ul>
-  </div>
+
+  <?php 
+    include ('modules/navbar.php') 
+  ?> 
+
   <header id="header-target" class="header-style">
+    
     <div class="container h-100">
       <div class="row h-100">
         <div class="col-12 my-auto text-center text-white">
@@ -54,6 +20,7 @@
         </div>
       </div>
     </div>
+
     <div class="scroll-down d-flex justify-content-center align-items: center">
       <a class="btn js-scroll-trigger" href="#about">
         <svg class="svg-inline--fa fa-angle-down fa-w-10" aria-hidden="true" data-prefix="fas" data-icon="angle-down" role="img"
@@ -63,7 +30,9 @@
         <!-- <i class="fas fa-angle-down"></i> -->
       </a>
     </div>
+
   </header>
+
   <div class="page-section" id="about">
     <div class="container container-me">
       <div class="row">
@@ -76,8 +45,10 @@
         </div>
       </div>
     </div>
+  </div> 
+   
   </div>
-  </div>
+
   <section id="portfolio" class="page-section bg-light">
     <div class="container-fluid">
       <div class="wow fadeIn text-center">
@@ -123,6 +94,7 @@
       </div>
     </div>
   </section>
+  
   <div>
     <section id="contact" class="page-section form-container">
       <div class="container">
@@ -134,21 +106,17 @@
 
       <div class="row justify-content-md-center">
           
-      <a href="https://www.linkedin.com/in/matthew-norkaitis-8a0a0831"><div style="display: inline-block; padding: 40px;"><img src="assets/img/linkedin-logo.png" alt="LinkedIn Logo"></div></a>
-      <a href="https://github.com/gamesmartz"><div style="display: inline-block; padding: 40px;"><img src="assets/img/github-logo.png" alt="GitHub Logo"></div></a>
+      <a href="https://www.linkedin.com/in/matthew-norkaitis-8a0a0831"><div class="contact-links"><img src="assets/img/linkedin-logo.png" alt="LinkedIn Logo"></div></a>
+      <a href="https://github.com/gamesmartz"><div class="contact-links"><img src="assets/img/github-logo.png" alt="GitHub Logo"></div></a>
+      <a href="http://awnold.cgsociety.org/"><div class="contact-links" style="margin-top: 30px;"><img src="assets/img/cg-society.png" alt="CG Society Logo"></div></a>
 
     </div>
-          
     </section>
   </div>
-  <footer class="footer d-flex justify-content-center align-items-end">
-    <div class="copyright">   
-    © <?php echo date('Y') ?> Matt Norkaitis
-    </div>
-  </footer>
-  </div>
-  
-  </div>
-  </div>
+
+<?php
+  include ('modules/footer.php');
+?>
+
 </body>
 </html>
