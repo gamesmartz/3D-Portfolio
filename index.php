@@ -26,8 +26,7 @@
         <svg class="svg-inline--fa fa-angle-down fa-w-10" aria-hidden="true" data-prefix="fas" data-icon="angle-down" role="img"
           xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg="">
           <path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z"></path>
-        </svg>
-        <!-- <i class="fas fa-angle-down"></i> -->
+        </svg>       
       </a>
     </div>
 
@@ -36,9 +35,11 @@
   <div class="page-section" id="about">
     <div class="container container-me">
       <div class="row">
+        
         <div class="col-lg-6">
-          <img src="assets/img/me-painting-golden-horizon.jpg" class="img-fluid rounded my-5" alt="painting-golden-horizon">
+        <a href="digital-art.php"> <img src="assets/img/me-painting-golden-horizon.jpg" class="img-fluid rounded my-5" alt="painting-golden-horizon"></a>
         </div>
+                
         <div class="col-lg-6 text-center my-auto">
           <h1>Hi, I'm Matt Norkaitis</h1>
           <p>I am an Artist living in Irvine Ca. Thanks for being here!</p>
