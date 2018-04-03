@@ -127,7 +127,15 @@
       </div>
     </div>
 
+    <div style="margin-top:50px;">
+      <h5>Skills : Photoshop - Pencil & Paper</h5>
+      <div>
+        <a href="https://www.adobe.com/products"><img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop"></a>
+        <img class="skill-sets" src="assets/img/pencil-paper-icon.png" alt="Pencil and Paper">
+      </div>     
+    </div>
   </div>
+  
 </section>
 
 <?php 
