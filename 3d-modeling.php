@@ -27,19 +27,7 @@
           <div class="caption-bg"></div>
         </div>
       </div>
-    </div>
-
-      <div class="portfolio-piece mix identity" title="Maya / Zbrush / Mudbox - Low Poly">
-        <div class="portfolio-wrapper">
-          <a href="https://youtu.be/JLvia4UXeHw"><img src="assets/img/maya-mudbox.jpg" alt="" style="width: 100%;"></a>
-          <div class="caption">
-            <div class="caption-text">
-              <span class="text-category">Maya / Zbrush / Mudbox - Low Poly</span>
-            </div>
-            <div class="caption-bg"></div>
-          </div>
-        </div>
-      </div>
+    </div>      
 
       <div class="portfolio-piece mix identity" title="Cottages of Carmel / 3D Animation">
         <div class="portfolio-wrapper">
@@ -64,6 +52,29 @@
           </div>
         </div>
       </div>
+
+      <div class="portfolio-piece mix identity" title="Maya / Zbrush / Mudbox - Low Poly">
+        <div class="portfolio-wrapper">
+          <a href="https://youtu.be/JLvia4UXeHw"><img src="assets/img/maya-mudbox.jpg" alt="" style="width: 100%;"></a>
+          <div class="caption">
+            <div class="caption-text">
+              <span class="text-category">Maya / Zbrush / Mudbox - Low Poly</span>
+            </div>
+            <div class="caption-bg"></div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top:50px;">
+      <h5>Photoshop - Maya - Mudbox - Architectural Floorplans</h5>
+      <div>
+        <a href="https://www.adobe.com/products"><img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop"></a>
+        <a href="https://www.autodesk.com/products/maya/overview"><img class="skill-sets" src="assets/img/autodesk-maya.png" alt="Autodesk Maya"></a>
+        <a href="https://www.autodesk.com/products/mudbox/overview"><img class="skill-sets" src="assets/img/autodesk-mudbox.png" alt="Autodesk Mudbox"></a>
+        <a href="https://www.aia.org/"><img class="skill-sets" src="assets/img/architectural-floorplans.png" alt="Architectural Floorplans"></a>
+      </div>     
+    </div>
+  </div>
 
   </div>
 </section>
