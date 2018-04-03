@@ -13,6 +13,7 @@
 <section class="page-section">
   
   <div class="container text-center" style="position: relative; ">
+    
     <h2 class="thick-bold-raleway">Digital Painting with Photoshop</h2>
     <hr class="colored">
     
@@ -132,9 +133,10 @@
       <div>
         <a href="https://www.adobe.com/products"><img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop"></a>
         <img class="skill-sets" src="assets/img/pencil-paper-icon.png" alt="Pencil and Paper">
-      </div>     
+      </div>
     </div>
-  </div>
+
+  </div><?php //container end ?>
 
 </section>
 

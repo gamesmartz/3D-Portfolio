@@ -65,7 +65,7 @@
         </div>
       </div>
 
-      <div style="margin-top:50px;">
+    <div style="margin-top:50px;">
       <h5>Photoshop - Maya - Mudbox - Architectural Floorplans</h5>
       <div>
         <a href="https://www.adobe.com/products"><img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop"></a>
@@ -74,9 +74,9 @@
         <a href="https://www.aia.org/"><img class="skill-sets" src="assets/img/architectural-floorplans.png" alt="Architectural Floorplans"></a>
       </div>     
     </div>
-  </div>
 
   </div>
+
 </section>
 
 <?php 
