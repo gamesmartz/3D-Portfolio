@@ -97,11 +97,18 @@ hr {
 
 .page-section {
   padding: 150px 0;
+  padding-bottom: 100px;
 }
 
 .skill-set {
   color: #000;
 }
+
+.skill-sets {
+  padding:50px; 
+  padding-top:30px
+}
+
 .footer-separator-bar {
   background-color: #222;
   padding: 50px 0;
