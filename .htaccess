@@ -13,5 +13,3 @@ RewriteRule ^(.*)$ $1.html
 #RewriteRule ^([a-z]+)\/?$ $1.html [NC]
 
 </IfModule>
-
-ErrorDocument 404 /index.php
