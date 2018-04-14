@@ -74,7 +74,7 @@
             <div class="px-4 pb-4 pb-lg-0 h-100">
               <img src="assets/img/3d-shape.png" alt="3d Shape">
               <h3>3d Modeling</h3>
-              <p class="mb-0">3d modeling for architecture and entertainment.</p>
+              <p class="mb-0">3d Modeling for Architecture and Entertainment.</p>
             </div>
           </a>
         </div>
@@ -82,8 +82,8 @@
           <a href="front-end-dev.php">
             <div class="px-4 pb-4 pb-lg-0 h-100">
               <img src="assets/img/closing-braces.png" alt="Closing Braces">
-              <h3>Front-End Development</h3>
-              <p class="mb-0">Web creation with html/css/oop javascript.</p>
+              <h3>Front-End</h3>
+              <p class="mb-0">Programming with html / css / javascript / php / mysql.</p>
             </div>
           </a>
         </div>
@@ -92,7 +92,7 @@
             <div class="wow fadeIn px-4 h-100">
               <img src="assets/img/photo-add-subtract.png" alt="Photoshop Logo">
               <h3>Photo Manipulation</h3>
-              <p class="mb-0">Adding/subtracting/modifying images with photoshop</p>
+              <p class="mb-0">Adding / Subtracting / Modifying Images with Photoshop</p>
             </div>
           </a>
         </div>

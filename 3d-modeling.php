@@ -23,8 +23,7 @@
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Floorplans with Google Map Data</span>
-          </div>
-          <div class="caption-bg"></div>
+          </div>         
         </div>
       </div>
     </div>      
@@ -35,8 +34,7 @@
           <div class="caption">
             <div class="caption-text">
               <span class="text-category">Cottages of Carmel / 3D Animation: <a href="http://carmel.watermarkcommunities.com/">Project</a> </span>
-            </div>
-            <div class="caption-bg"></div>
+            </div>           
           </div>
         </div>
       </div>
@@ -47,8 +45,7 @@
           <div class="caption">
             <div class="caption-text">
               <span class="text-category">Architectural Massing</span>
-            </div>
-            <div class="caption-bg"></div>
+            </div>           
           </div>
         </div>
       </div>
@@ -59,8 +56,7 @@
           <div class="caption">
             <div class="caption-text">
               <span class="text-category">Maya / Zbrush / Mudbox - Low Poly</span>
-            </div>
-            <div class="caption-bg"></div>
+            </div>         
           </div>
         </div>
       </div>

@@ -13,28 +13,50 @@
 
   <div class="container text-center wow fadeIn" style="visibility: visible; animation-name: fadeIn; position: relative; ">
     
-    <h2 class="thick-bold-raleway">Front End Development</h2>
+    <h2 class="thick-bold-raleway">Front End</h2>
     <hr class="colored">
     
     <a href="3d-modeling.php"><div class="portfolio-chevron-left"><i class="large material-icons" style="font-size: 80px">chevron_left</i></div></a>
     <a href="photo-manipulation.php"><div class="portfolio-chevron-right"><i class="large material-icons" style="font-size: 80px">chevron_right</i></div></a>
 
-
-      <a href="https://github.com/gamesmartz/Memory-Match-JS-OOP">
-        <div class="portfolio-piece mix identity" title="Memory Match Art Portfolio">
-          <div class="portfolio-wrapper">
-            <img src="assets/img/memory-match.jpg" alt="" style="width: 100%;">
-          </div>
+      <div class="portfolio-piece mix identity" title="Matts Memory Match Mashup">
+        <div class="portfolio-wrapper">
+          <a href="Memory-Match-JS-OOP/index.html"><img src="assets/img/memory-match.jpg" alt="Matts Memory Match Mashup" style="width: 100%;">
+            <div class="caption">
+              <div class="caption-text">
+                <span class="text-category">Matts Memory Match Mashup</a></span>
+              </div>            
+            </div>
+          </a>  
+            <a href="https://github.com/gamesmartz/Memory-Match-JS-OOP"><img class="skill-sets" style="padding: 10px; width: 60px;" src="assets/img/github-skills.png" alt="Github Skills"></a>
         </div>
-      </a>
+      </div>
 
-      <a href="https://github.com/gamesmartz/Connect-Four-JS">
-        <div class="portfolio-piece mix identity" title="Caribbean Connect 4">
-          <div class="portfolio-wrapper">
-            <img src="assets/img/caribbean-connect-4.jpg" alt="" style="width: 100%;">  
-          </div>
+      <div class="portfolio-piece mix identity" title="Caribbean Connect 4">
+        <div class="portfolio-wrapper">
+          <a href="Connect-Four-JS/index.html"><img src="assets/img/caribbean-connect-4.jpg" alt="Caribbean Connect 4" style="width: 100%;">
+            <div class="caption">
+              <div class="caption-text">
+                <span class="text-category">Caribbean Connect 4</a></span>
+              </div>            
+            </div>
+          </a>  
+            <a href="https://github.com/gamesmartz/Connect-Four-JS"><img class="skill-sets" style="padding: 10px; width: 60px;" src="assets/img/github-skills.png" alt="Github Skills"></a>
         </div>
-      </a>
+      </div>
+
+      <div class="portfolio-piece mix identity" title="Star Trek Calculator">
+        <div class="portfolio-wrapper">
+          <a href="Calculator-JS-OOP/index.html"><img src="assets/img/star-trek-calculator.jpg" alt="Star Trek Calculator" style="width: 100%;">
+            <div class="caption">
+              <div class="caption-text">
+                <span class="text-category">Star Trek Calculator</a></span>
+              </div>            
+            </div>
+          </a>  
+            <a href="https://github.com/gamesmartz/Calculator-JS-OOP"><img class="skill-sets" style="padding: 10px; width: 60px;" src="assets/img/github-skills.png" alt="Github Skills"></a>
+        </div>
+      </div>
 
       <div style="margin-top:50px;">
         <h5>Photoshop - HTML - CSS - Javascript - PHP - Mysql</h5>
