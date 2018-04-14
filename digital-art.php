@@ -26,8 +26,7 @@
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Deep Dungeon</span>
-          </div>
-          <div class="caption-bg"></div>
+          </div>   
         </div>
       </div>
     </div>
@@ -38,8 +37,7 @@
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Captain's Quarters</span>
-          </div>
-          <div class="caption-bg"></div>
+          </div>      
         </div>
       </div>
     </div>
@@ -50,8 +48,7 @@
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Dragon Range</span>
-          </div>
-          <div class="caption-bg"></div>
+          </div>       
         </div>
       </div>
     </div>
@@ -63,7 +60,6 @@
           <div class="caption-text">
             <span class="text-category">Gold Horizon</span>
           </div>
-          <div class="caption-bg"></div>
         </div>
       </div>
     </div>
@@ -74,8 +70,7 @@
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Last Bridge</span>
-          </div>
-          <div class="caption-bg"></div>
+          </div>  
         </div>
       </div>
     </div>
@@ -86,8 +81,7 @@
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Guardians</span>
-          </div>
-          <div class="caption-bg"></div>
+          </div>     
         </div>
       </div>
     </div>
@@ -98,8 +92,7 @@
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Sunset Journey</span>
-          </div>
-          <div class="caption-bg"></div>
+          </div> 
         </div>
       </div>
     </div>
@@ -111,7 +104,6 @@
           <div class="caption-text">
             <span class="text-category">Mist and Forest</span>
           </div>
-          <div class="caption-bg"></div>
         </div>
       </div>
     </div>
@@ -123,7 +115,6 @@
           <div class="caption-text">
             <span class="text-category">The Core</span>
           </div>
-          <div class="caption-bg"></div>
         </div>
       </div>
     </div>
