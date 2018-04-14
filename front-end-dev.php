@@ -21,7 +21,7 @@
 
       <div class="portfolio-piece mix identity" title="Matts Memory Match Mashup">
         <div class="portfolio-wrapper">
-          <a href="Memory-Match-JS-OOP/index.html"><img src="assets/img/memory-match.jpg" alt="Matts Memory Match Mashup" style="width: 100%;">
+          <a href="Memory-Match-JS-OOP/index"><img src="assets/img/memory-match.jpg" alt="Matts Memory Match Mashup" style="width: 100%;">
             <div class="caption">
               <div class="caption-text">
                 <span class="text-category">Matts Memory Match Mashup</a></span>
@@ -34,7 +34,7 @@
 
       <div class="portfolio-piece mix identity" title="Caribbean Connect 4">
         <div class="portfolio-wrapper">
-          <a href="Connect-Four-JS/index.html"><img src="assets/img/caribbean-connect-4.jpg" alt="Caribbean Connect 4" style="width: 100%;">
+          <a href="Connect-Four-JS/index"><img src="assets/img/caribbean-connect-4.jpg" alt="Caribbean Connect 4" style="width: 100%;">
             <div class="caption">
               <div class="caption-text">
                 <span class="text-category">Caribbean Connect 4</a></span>
@@ -47,7 +47,7 @@
 
       <div class="portfolio-piece mix identity" title="Star Trek Calculator">
         <div class="portfolio-wrapper">
-          <a href="Calculator-JS-OOP/index.html"><img src="assets/img/star-trek-calculator.jpg" alt="Star Trek Calculator" style="width: 100%;">
+          <a href="Calculator-JS-OOP/index"><img src="assets/img/star-trek-calculator.jpg" alt="Star Trek Calculator" style="width: 100%;">
             <div class="caption">
               <div class="caption-text">
                 <span class="text-category">Star Trek Calculator</a></span>
