@@ -16,8 +16,8 @@
     <h2 class="thick-bold-raleway">Front End</h2>
     <hr class="colored">
     
-    <a href="3d-modeling.php"><div class="portfolio-chevron-left"><i class="large material-icons" style="font-size: 80px">chevron_left</i></div></a>
-    <a href="photo-manipulation.php"><div class="portfolio-chevron-right"><i class="large material-icons" style="font-size: 80px">chevron_right</i></div></a>
+    <a href="3d-modeling"><div class="portfolio-chevron-left"><i class="large material-icons" style="font-size: 80px">chevron_left</i></div></a>
+    <a href="photo-manipulation"><div class="portfolio-chevron-right"><i class="large material-icons" style="font-size: 80px">chevron_right</i></div></a>
 
       <div class="portfolio-piece mix identity" title="Matts Memory Match Mashup">
         <div class="portfolio-wrapper">

@@ -16,8 +16,8 @@
 
     <h2 class="thick-bold-raleway">Photo Manipulation with Photoshop</h2>
     <hr class="colored">
-    <a href="front-end-dev.php"><div class="portfolio-chevron-left"><i class="large material-icons" style="font-size: 80px">chevron_left</i></div></a>
-    <a href="digital-art.php"><div class="portfolio-chevron-right"><i class="large material-icons" style="font-size: 80px">chevron_right</i></div></a>
+    <a href="front-end-dev"><div class="portfolio-chevron-left"><i class="large material-icons" style="font-size: 80px">chevron_left</i></div></a>
+    <a href="digital-art"><div class="portfolio-chevron-right"><i class="large material-icons" style="font-size: 80px">chevron_right</i></div></a>
 
       <div class="portfolio-piece mix identity" title="Photo Manipulation with Photoshop">
         <div class="portfolio-wrapper">
