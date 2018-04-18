@@ -152,15 +152,15 @@ a.anchor-offset {
 
 .portfolio-chevron-right {
   position: absolute;
-  right: -30px;
-  top: 50%;
+  right: 25px;
+  top: 45%;
   height: 50px;
   width: 50px;
 }
 .portfolio-chevron-left {
   position: absolute;
-  left: -70px;
-  top: 50%;
+  left: -5px;
+  top: 45%;
   height: 50px;
   width: 50px;
 }
@@ -195,6 +195,8 @@ a.anchor-offset {
     margin-top: 100px;
     font-size: 4rem !important;
   }
+
+
 }
 #portfolio .row {
   margin-top: 60px;
@@ -220,6 +222,13 @@ a.anchor-offset {
     margin-top: -170px;
     font-size: 5rem !important;
   }
+  .portfolio-chevron-right {
+    right: -30px;   
+  } 
+  .portfolio-chevron-left {   
+    left: -70px;
+  }
+
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
