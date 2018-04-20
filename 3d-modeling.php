@@ -50,6 +50,17 @@
         </div>
       </div>
 
+      <div class="portfolio-piece mix identity" title="Architectural Stylized">
+        <div class="portfolio-wrapper">
+          <a href="https://youtu.be/adagX1entG0"><img src="assets/img/arrowhead.jpg" alt="" style="width: 100%;"></a>
+          <div class="caption">
+            <div class="caption-text">
+              <span class="text-category">Architectural Stylized</span>
+            </div>           
+          </div>
+        </div>
+      </div>
+
       <div class="portfolio-piece mix identity" title="Maya / Zbrush / Mudbox - Low Poly">
         <div class="portfolio-wrapper">
           <a href="https://youtu.be/JLvia4UXeHw"><img src="assets/img/maya-mudbox.jpg" alt="" style="width: 100%;"></a>
