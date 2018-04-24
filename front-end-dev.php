@@ -45,16 +45,16 @@
         </div>
       </div>
 
-      <div class="portfolio-piece mix identity" title="Star Trek Calculator">
+    <div class="portfolio-piece mix identity" title="GameSmartz">
         <div class="portfolio-wrapper">
-          <a href="Calculator-JS-OOP/index"><img src="assets/img/star-trek-calculator.jpg" alt="Star Trek Calculator" style="width: 100%;">
+          <a href="https://gamesmartz.com"><img src="assets/img/gamesmartz.jpg" alt="GameSmartz" style="width: 100%;">
             <div class="caption">
               <div class="caption-text">
-                <span class="text-category">Star Trek Calculator</a></span>
+                <span class="text-category">GameSmartz - Learning Software For Kids</a></span>
               </div>            
             </div>
           </a>  
-            <a href="https://github.com/gamesmartz/Calculator-JS-OOP"><img class="skill-sets" style="padding: 10px; width: 60px;" src="assets/img/github-skills.png" alt="Github Skills"></a>
+            <a href="https://github.com/gamesmartz"><img class="skill-sets" style="padding: 10px; width: 60px;" src="assets/img/github-skills.png" alt="Github Skills"></a>
         </div>
       </div>
 
