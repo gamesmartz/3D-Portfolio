@@ -1,7 +1,7 @@
 <?php 
   include ('modules/head.php')
 ?>
-  <title>3d Modeling Portfolio - Matt Norkaitis</title>
+  <title>Front End Developement - Maya - Zbrush - Photoshop - Matt Norkaitis</title>
 </head>
 
 <body>

@@ -1,7 +1,7 @@
 <?php 
   include ('modules/head.php')
 ?>
-  <title>Front End Developement - JS - PHP - CSS - Portfolio - Matt Norkaitis</title>
+  <title>Front End Developement Graphics - CSS - JS - PHP - Matt Norkaitis</title>
 </head>
 <body>
 
