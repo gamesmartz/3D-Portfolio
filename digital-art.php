@@ -1,7 +1,7 @@
 <?php 
   include ('modules/head.php')
 ?>
-  <title>Digital Art Portfolio - Matt Norkaitis</title>
+  <title>Digital Painting - Photoshop - Pencil - Matt Norkaitis</title>
 </head>
 
 <body>

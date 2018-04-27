@@ -1,7 +1,7 @@
 <?php 
   include ('modules/head.php')
 ?>
-  <title>Photo Manipulation with Photoshop - Matt Norkaitis</title>
+  <title>Photo Manipulation - Photoshop - Matt Norkaitis</title>
 </head>
 
 <body>

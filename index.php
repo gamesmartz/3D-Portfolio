@@ -1,7 +1,7 @@
   <?php 
     include ('modules/head.php') 
   ?> 
-  <title>Matt Norkaitis - Artist / Engineer</title>
+  <title>Matt Norkaitis - Artist / Engineer - Irvine CA</title>
 </head>
 
 <body style="position: relative; " data-spy="scroll" data-target=".navbar" data-offset="50">
