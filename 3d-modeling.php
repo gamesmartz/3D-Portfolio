@@ -9,13 +9,22 @@
     include ('modules/navbar.php') 
 ?> 
 
-<section class="page-section">
-  <div class="container text-center" style="">
+<section class="page-section"><?php //section start ?>
+
+  <div class="container text-center"><?php //container start ?>
     <h2 class="thick-bold-raleway">3d Modeling</h2>
     <hr class="colored">
 
-    <a href="digital-art"><div class="portfolio-chevron-left"><i class="large material-icons" style="font-size: 80px">chevron_left</i></div></a>
-    <a href="front-end-dev"><div class="portfolio-chevron-right"><i class="large material-icons" style="font-size: 80px">chevron_right</i></div></a>
+    <div class="position-relative"><?php //portfolio pieces container start ?>
+
+    <div class="chevrons-container">      
+        <a href="front-end-dev">
+          <i class="chevron-right large material-icons" style="font-size: 80px">chevron_right</i>
+        </a>
+        <a href="digital-art">
+          <i class="chevron-left large material-icons" style="font-size: 80px">chevron_left</i>
+        </a>
+    </div>    
 
     <div class="portfolio-piece mix identity" title="Floorplans with Maps Data">
       <div class="portfolio-wrapper">
@@ -82,9 +91,11 @@
       </div>     
     </div>
 
-  </div>
+    </div><?php //portfolio pieces container end ?>
 
-</section>
+  </div><?php //container end ?>
+
+</section><?php //section end ?>
 
 <?php 
     include ('modules/footer.php') 

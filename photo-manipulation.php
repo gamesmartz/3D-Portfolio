@@ -10,14 +10,23 @@
     include ('modules/navbar.php') 
 ?> 
 
-<section class="page-section">
+<section class="page-section"><?php //section start ?>
 
-  <div class="container text-center" style="">
+  <div class="container text-center"><?php //container start ?>
 
-    <h2 class="thick-bold-raleway">Photo Manipulation with Photoshop</h2>
+    <h2 class="thick-bold-raleway" style="font-size: 48px;" >Photo Manipulation with Photoshop</h2>
     <hr class="colored">
-    <a href="front-end-dev"><div class="portfolio-chevron-left"><i class="large material-icons" style="font-size: 80px">chevron_left</i></div></a>
-    <a href="digital-art"><div class="portfolio-chevron-right"><i class="large material-icons" style="font-size: 80px">chevron_right</i></div></a>
+
+    <div class="position-relative"><?php //portfolio pieces container start ?>
+
+    <div class="chevrons-container">
+      <a href="digital-art">
+        <i class="chevron-right large material-icons" style="font-size: 80px">chevron_right</i>
+      </a>
+      <a href="front-end-dev">
+        <i class="chevron-left large material-icons" style="font-size: 80px">chevron_left</i>
+      </a>      
+    </div>
 
       <div class="portfolio-piece mix identity" title="Photo Manipulation with Photoshop">
         <div class="portfolio-wrapper">
@@ -39,9 +48,11 @@
         </div>     
       </div>
 
-  </div><?php //container end ?>
+    </div><?php //portfolio pieces container end ?>
 
-</section>
+    </div><?php //container end ?>
+
+</section><?php //section end ?>
 
 <footer class="footer" style="background-image: url('assets/img/pirate-ship-background.jpg'); color: #fff;">
 <?php 

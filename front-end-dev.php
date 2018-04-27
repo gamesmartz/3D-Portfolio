@@ -9,22 +9,31 @@
     include ('modules/navbar.php') 
 ?> 
 
-<section class="page-section">
+<section class="page-section"><?php //section start ?>
 
-  <div class="container text-center wow fadeIn" style="visibility: visible; animation-name: fadeIn; position: relative; ">
+  <div class="container text-center wow fadeIn"><?php //container start ?>
     
-    <h2 class="thick-bold-raleway">Front End</h2>
-    <hr class="colored">
-    
-    <a href="3d-modeling"><div class="portfolio-chevron-left"><i class="large material-icons" style="font-size: 80px">chevron_left</i></div></a>
-    <a href="photo-manipulation"><div class="portfolio-chevron-right"><i class="large material-icons" style="font-size: 80px">chevron_right</i></div></a>
+    <h2 class="thick-bold-raleway" style="font-size: 46px;">Front End Developement</h2>
+    <hr class="colored">  
+
+    <div class="position-relative"><?php //portfolio pieces container start ?>
+
+    <div class="chevrons-container">
+      <a href="photo-manipulation">
+        <i class="chevron-right large material-icons" style="font-size: 80px">chevron_right</i>
+      </a>
+      <a href="3d-modeling">
+        <i class="chevron-left large material-icons" style="font-size: 80px">chevron_left</i>
+      </a>      
+    </div>
 
       <div class="portfolio-piece mix identity" title="Matts Memory Match Mashup">
         <div class="portfolio-wrapper">
           <a href="Memory-Match-JS-OOP/index"><img src="assets/img/memory-match.jpg" alt="Matts Memory Match Mashup" style="width: 100%;">
             <div class="caption">
               <div class="caption-text">
-                <span class="text-category">Matts Memory Match Mashup</a></span>
+                <div class="text-category">Memory Match Art Portfolio</div>
+                <div class="text-category">Responsible for Everything: Graphics, Javascript, CSS Layout</div>
               </div>            
             </div>
           </a>  
@@ -32,12 +41,14 @@
         </div>
       </div>
 
+
       <div class="portfolio-piece mix identity" title="Caribbean Connect 4">
         <div class="portfolio-wrapper">
           <a href="Connect-Four-JS/index"><img src="assets/img/caribbean-connect-4.jpg" alt="Caribbean Connect 4" style="width: 100%;">
             <div class="caption">
               <div class="caption-text">
-                <span class="text-category">Caribbean Connect 4</a></span>
+                <div class="text-category">Caribbean Connect 4</div>
+                <div class="text-category">Responsible for: Graphics, Minor Javascript, CSS Layout</div>
               </div>            
             </div>
           </a>  
@@ -50,7 +61,26 @@
           <a href="https://gamesmartz.com"><img src="assets/img/gamesmartz.jpg" alt="GameSmartz" style="width: 100%;">
             <div class="caption">
               <div class="caption-text">
-                <span class="text-category">GameSmartz - Learning Software For Kids</a></span>
+                <div class="text-category">GameSmartz</div>
+                <div class="text-category">Educational Software for Kids/Students</div>
+                <div class="text-category">Responsible for: Funding, Project Concept, Project Management, Graphics, CSS Layout, Minor Javascript, Minor PHP, Minor Mysql</div>
+              </div>            
+            </div>
+          </a>  
+            <a href="https://github.com/gamesmartz"><img class="skill-sets" style="padding: 10px; width: 60px;" src="assets/img/github-skills.png" alt="Github Skills"></a>
+        </div>
+      </div>
+
+      <div class="portfolio-piece mix identity" title="Furnishing America">
+        <div class="portfolio-wrapper">
+          <a href="https://www.furnishingamerica.com/"><img src="assets/img/furnishingamerica.jpg" alt="Furnishing America" style="width: 100%;">
+            <div class="caption">
+              <div class="caption-text">   
+                <div class="text-category">Furnishing America</div>
+                <div class="text-category">2.8 Million Unique Users</div>
+                <div class="text-category">18.3 Million Page Views</div>
+                <div class="text-category">Responsible for every aspect of this website.</div>
+                <div class="text-category">SEO - Front-end Development - Graphics - CSS Layout</div>
               </div>            
             </div>
           </a>  
@@ -59,7 +89,7 @@
       </div>
 
       <div style="margin-top:50px;">
-        <h5>Photoshop - HTML - CSS - Javascript - PHP - Mysql</h5>
+        <h5>Photoshop - HTML - CSS - Javascript - PHP - Mysql - SEO</h5>
         <div>
           <a href="https://www.adobe.com/products"><img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop"></a>
           <a href="https://en.wikipedia.org/wiki/HTML"><img class="skill-sets" src="assets/img/html-logo.png" alt="HTML"></a>
@@ -69,9 +99,11 @@
         </div>     
       </div>
 
+      </div><?php //portfolio pieces container end ?>
+
   </div><?php //container end ?>
 
-</section>
+</section><?php //section end ?>
 
 <?php 
     include ('modules/footer.php') 

@@ -41,7 +41,7 @@ a {
 }
 .header-style {
   position: relative;
-  padding-top: 150px;
+  padding-top: 200px;
   padding-bottom: 150px;
   background-color: #222;
   background-image: url('../img/gold-horizons-large-36.jpg');
@@ -133,7 +133,7 @@ hr {
 }
 
 .portfolio-piece {
-  width: 33%;
+  width: 80%;
   display: inline-block;
   padding: 0.3%;
   vertical-align: top;
@@ -150,20 +150,26 @@ a.anchor-offset {
   visibility: hidden;
 }
 
-.portfolio-chevron-right {
+/* chevrons start */
+.chevrons-container {
   position: absolute;
-  right: 25px;
-  top: 45%;
-  height: 50px;
-  width: 50px;
+  top: 3%;
+  width: 100%;
+  background-color: red;  
 }
-.portfolio-chevron-left {
+.chevron-right {
   position: absolute;
-  left: -5px;
-  top: 45%;
-  height: 50px;
-  width: 50px;
+  right: -25px;  
 }
+.chevron-left {
+  position: absolute;
+  left: -25px;
+}
+.chevron-right:hover, .chevron-left:hover {
+  color: #ffc107;
+}
+/* chevrons end */
+
 .container {
   position: relative;
 }
@@ -184,11 +190,9 @@ a.anchor-offset {
   display: inline-block; 
   padding: 40px;
 }
-.portfolio-chevron-right:hover, .portfolio-chevron-left:hover {
-  color: #ffc107;
-}
 
-/* RESPONSIVE */
+
+/* Responsive Start */
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
   .header-title {
@@ -206,6 +210,12 @@ a.anchor-offset {
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 
+  .portfolio-piece {
+    width: 30%;
+    display: inline-block;
+    padding: 0.3%;
+    vertical-align: top;
+  }
 
 }
 
@@ -219,7 +229,7 @@ a.anchor-offset {
     top: 0;
   }
   .header-title {
-    margin-top: -170px;
+    margin-top: -215px;
     font-size: 5rem !important;
   }
   .portfolio-chevron-right {
@@ -235,3 +245,4 @@ a.anchor-offset {
 @media (min-width: 1200px) {
 
 }
+/* Responsive End */
