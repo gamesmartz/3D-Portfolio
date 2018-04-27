@@ -10,15 +10,23 @@
     include ('modules/navbar.php') 
 ?> 
 
-<section class="page-section">
+<section class="page-section"><?php //section start ?>
   
-  <div class="container text-center" style="position: relative; ">
+  <div class="container text-center"><?php //container start ?>
     
     <h2 class="thick-bold-raleway">Digital Painting with Photoshop</h2>
     <hr class="colored">
-    
-    <a href="photo-manipulation"><div class="portfolio-chevron-left"><i class="large material-icons" style="font-size: 80px">chevron_left</i></div></a>
-    <a href="3d-modeling"><div class="portfolio-chevron-right"><i class="large material-icons" style="font-size: 80px">chevron_right</i></div></a>
+
+    <div class="position-relative"><?php //portfolio pieces container start ?>
+
+    <div class="chevrons-container">      
+      <a href="3d-modeling">
+        <i class="chevron-right large material-icons" style="font-size: 80px">chevron_right</i>
+      </a>
+      <a href="photo-manipulation">
+        <i class="chevron-left large material-icons" style="font-size: 80px">chevron_left</i>
+      </a>
+    </div>   
 
     <div class="portfolio-piece mix identity" title="Deep Dungeon">
       <div class="portfolio-wrapper">
@@ -31,7 +39,7 @@
       </div>
     </div>
 
-    <div class="portfolio-piece mix identity" title="Captain's Quarterse">
+    <div class="portfolio-piece mix identity" title="Captain's Quarters">
       <div class="portfolio-wrapper">
         <img src="assets/img/project2.jpg" alt="" style="width: 100%;">
         <div class="caption">
@@ -120,16 +128,18 @@
     </div>
 
     <div style="margin-top:50px;">
-      <h5> Photoshop - Pencil & Paper</h5>
+      <h5> Photoshop - Pencil and Paper</h5>
       <div>
         <a href="https://www.adobe.com/products"><img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop"></a>
         <img class="skill-sets" src="assets/img/pencil-paper-icon.png" alt="Pencil and Paper">
       </div>
     </div>
 
+    </div><?php //portfolio pieces container end ?>
+
   </div><?php //container end ?>
 
-</section>
+</section><?php //section end ?>
 
 <?php 
     include ('modules/footer.php') 

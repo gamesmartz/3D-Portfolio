@@ -1,7 +1,7 @@
   <?php 
     include ('modules/head.php') 
   ?> 
-  <title>Matt Norkaitis - Artist -  My Portfolio</title>
+  <title>Matt Norkaitis - Artist / Engineer</title>
 </head>
 
 <body style="position: relative; " data-spy="scroll" data-target=".navbar" data-offset="50">
@@ -16,8 +16,8 @@
       <div class="row h-100">
         <div class="col-12 my-auto text-center text-white">
           <div class="header-title">Matt Norkaitis</div>
-          <div class="masthead-subtitle">Company: Tech Magic</div>
-          <div class="masthead-subtitle">Consultant - 3d Modeler / Photoshop Artist / Front-End Developer</div>
+          <div class="masthead-subtitle">Company: Tech Magic (Artist / Engineer)</div>
+          <div class="masthead-subtitle">3d Modeler / Front-End Developer / Digital Painter / Single Parent</div>
         </div>
       </div>
     </div>
@@ -44,7 +44,7 @@
         <div class="col-lg-6 text-center my-auto">
          <h1>Hi, I'm Matt Norkaitis</h1>
           <hr class="colored">
-          <p>I am a <a href="3d-modeling.php">3d modeler</a>, <a href="digital-art.php">photoshop artist</a> and <a href="front-end-dev.php">front-end developer</a> living in Irvine Ca. All the images and content on this site are my own. I have 15 years experience in 3d modeling, and 7 years experience as a front end designer / seo. I also have front end developement experience. Thanks for visting my site, much appreciated!</p>
+          <p>I am a <a href="3d-modeling.php">3d modeler</a>, <a href="digital-art.php">digital painter</a> and <a href="front-end-dev.php">front-end developer</a> living in Irvine Ca. All the images and content on this site are my own. I have 15 years experience in 3d modeling, and 7 years experience as a front end designer / seo. I also have front end developement experience. Thanks for visting my site, much appreciated!</p>
           <p>I'm current developing a learning tool for kids as well as running the technical aspects of a furniture company my partner and I started 8 years ago, growing the company from nothing to the largest privately owned furniture company in Orange County.</p>
           <p>I am also a single father who has raised his son from 1 years old to 14 solo.</p>        
         </div>
