@@ -1,32 +1,30 @@
 <?php 
   include ('modules/head.php')
 ?>
-  <title>Photo Manipulation - Photoshop - Matt Norkaitis</title>
+  <title>Photoshop Wizardry - Matt Norkaitis</title>
 </head>
 
-<body>
-
-<?php 
-    include ('modules/navbar.php') 
-?> 
+<?php
+  include ('modules/navbar-portfolios.php');
+?>
 
 <section class="page-section"><?php //section start ?>
 
   <div class="container text-center"><?php //container start ?>
 
-    <h2 class="thick-bold-raleway" style="font-size: 48px;" >Photo Manipulation with Photoshop</h2>
+    <h2 class="thick-bold-raleway portfolio-titles">Photoshop Wizardry</h2>
     <hr class="colored">
 
     <div class="position-relative"><?php //portfolio pieces container start ?>
 
-    <div class="chevrons-container">
-      <a href="digital-art">
+    <div class="chevrons-container"><?php //chevron start ?>
+      <a href="digital-painting">
         <i class="chevron-right large material-icons" style="font-size: 80px">chevron_right</i>
       </a>
       <a href="front-end-dev">
         <i class="chevron-left large material-icons" style="font-size: 80px">chevron_left</i>
       </a>      
-    </div>
+    </div><?php //chevron end ?>
 
       <div class="portfolio-piece mix identity" title="Photo Manipulation with Photoshop">
         <div class="portfolio-wrapper">
@@ -44,7 +42,6 @@
         <h5>Photoshop - Maya</h5>
         <div>
           <a href="https://www.adobe.com/products"><img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop"></a>
-          <a href="https://www.autodesk.com/products/maya/overview"><img class="skill-sets" src="assets/img/autodesk-maya.png" alt="Autodesk Maya"></a>
         </div>     
       </div>
 

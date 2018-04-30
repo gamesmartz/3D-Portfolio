@@ -57,6 +57,16 @@ a {
   color: #454545;
 }
 
+.nav {
+  min-height: 70px;
+}
+.nav .nav-item {
+  margin-right: 15px;
+}
+.nav .far-right-nav-margin {
+  margin-right: 20px;
+}
+
 .header-title {
   font-size: 4rem;
   line-height: 5rem;
@@ -142,6 +152,11 @@ hr {
 .portfolio-piece img {
   width: 100%;
 }
+
+.portfolio-titles {
+  font-size: 46px;
+}
+
 /* #tag lands above the target */
 a.anchor-offset {
   display: block;
@@ -180,12 +195,7 @@ a.anchor-offset {
 .portfolio-wrapper img {
   border-radius: 7px;
 }
-.nav {
-  min-height: 70px;
-}
-.nav .nav-item {
-  margin-right: 15px;
-}
+
 .contact-links {
   display: inline-block; 
   padding: 40px;
@@ -243,6 +253,8 @@ a.anchor-offset {
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-
+  .nav .far-right-nav-margin {
+    margin-right: 40px;
+  }
 }
 /* Responsive End */

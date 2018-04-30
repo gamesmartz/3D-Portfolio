@@ -1,10 +1,8 @@
   <?php 
     include ('modules/head.php') 
   ?> 
-  <title>Matt Norkaitis - Artist / Engineer - Irvine CA</title>
+  <title>Matt Norkaitis - 3d Artist / Front End Designer / Front End Developer - Irvine CA</title>
 </head>
-
-<body style="position: relative; " data-spy="scroll" data-target=".navbar" data-offset="50">
 
   <?php 
     include ('modules/navbar.php') 
@@ -16,13 +14,13 @@
       <div class="row h-100">
         <div class="col-12 my-auto text-center text-white">
           <div class="header-title">Matt Norkaitis</div>
-          <div class="masthead-subtitle">Company: Tech Magic (Artist / Engineer)</div>
-          <div class="masthead-subtitle">3d Modeler / Front-End Developer / Digital Painter / Single Parent</div>
+          <div class="masthead-subtitle">Company: Tech Magic</div>
+          <div class="masthead-subtitle"><a href="3d-artist">3d Artist</a> / <a href="front-end-dev">Front End Designer / Front End Developer</a> / <a href="digital-painting">Digital Painter</a> / <a href="#about">Single Parent</a></div>
         </div>
       </div>
     </div>
 
-    <div class="scroll-down d-flex justify-content-center align-items: center">
+    <div class="scroll-down d-flex justify-content-center">
       <a class="btn js-scroll-trigger" href="#about">
         <svg class="svg-inline--fa fa-angle-down fa-w-10" aria-hidden="true" data-prefix="fas" data-icon="angle-down" role="img"
           xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg="">
@@ -34,17 +32,17 @@
   </header>
 
   <div class="page-section" id="about">
-    <div class="container container-me">
+    <div class="container container-me text-center">
       <div class="row">
         
         <div class="col-lg-6">
         <a href="digital-art.php"> <img src="assets/img/me-painting-golden-horizon.jpg" class="img-fluid rounded my-5" alt="painting-golden-horizon"></a>
         </div>
 
-        <div class="col-lg-6 text-center my-auto">
+        <div class="col-lg-6 my-auto">
          <h1>Hi, I'm Matt Norkaitis</h1>
           <hr class="colored">
-          <p>I am a <a href="3d-modeling.php">3d modeler</a>, <a href="digital-art.php">digital painter</a> and <a href="front-end-dev.php">front-end developer</a> living in Irvine Ca. All the images and content on this site are my own. I have 15 years experience in 3d modeling, and 7 years experience as a front end designer / seo. I also have front end developement experience. Thanks for visting my site, much appreciated!</p>
+          <p>I am a <a href="3d-modeling.php">3d Artist</a>, <a href="digital-art.php">Front End Designer</a> and <a href="front-end-dev.php">Front End Developer</a> living in Irvine Ca. All the images and content on this site are my own. I have 15 years experience as a 3d Artist, and 7 years experience as a Front End Designer / Front End Developer. Thanks for visting my site, much appreciated!</p>
           <p>I'm current developing a learning tool for kids as well as running the technical aspects of a furniture company my partner and I started 8 years ago, growing the company from nothing to the largest privately owned furniture company in Orange County.</p>
           <p>I am also a single father who has raised his son from 1 years old to 14 solo.</p>        
         </div>
@@ -54,26 +52,26 @@
    
   </div>
 
-  <section id="portfolio" class="page-section bg-light">
-    <div class="container-fluid">
+  <section  class="page-section bg-light">
+    <div id="portfolio" class="container-fluid">
       <div class="wow fadeIn text-center">
         <h1 class="thick-bold-raleway">Portfolios</h1>
       </div>
       <div class="row text-center">
         <div class="col-lg-3 col-md-6">
-          <a href="digital-art">
+          <a href="digital-painting">
             <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100">
               <img src="assets/img/artist-pallet.png" alt="Artist Pallet">
-              <h3>Digital Art</h3>
+              <h3>Digital Painting</h3>
               <p class="mb-0">Digital Painting with Photoshop</p>
             </div>
           </a>
         </div>
         <div class="col-lg-3 col-md-6">
-          <a href="3d-modeling">
+          <a href="3d-artist">
             <div class="px-4 pb-4 pb-lg-0 h-100">
               <img src="assets/img/3d-shape.png" alt="3d Shape">
-              <h3>3d Modeling</h3>
+              <h3>3d Artist</h3>
               <p class="mb-0">3d Modeling for Architecture and Entertainment.</p>
             </div>
           </a>
@@ -82,16 +80,16 @@
           <a href="front-end-dev">
             <div class="px-4 pb-4 pb-lg-0 h-100">
               <img src="assets/img/closing-braces.png" alt="Closing Braces">
-              <h3>Front-End</h3>
+              <h3>Front-End Design / Development</h3>
               <p class="mb-0">Programming with html / css / javascript / php / mysql.</p>
             </div>
           </a>
         </div>
         <div class="col-lg-3 col-md-6">
-          <a href="photo-manipulation">
+          <a href="photoshop-wizardry">
             <div class="wow fadeIn px-4 h-100">
               <img src="assets/img/photo-add-subtract.png" alt="Photoshop Logo">
-              <h3>Photo Manipulation</h3>
+              <h3>Photoshop Wizardry</h3>
               <p class="mb-0">Adding / Subtracting / Modifying Images with Photoshop</p>
             </div>
           </a>
@@ -101,19 +99,19 @@
   </section>
   
   <div>
-    <section id="contact" class="page-section form-container">
-      <div class="container">
+    <section id="contact" class="page-section">
+      <div class="container text-center">
         
-      <div class="text-center">
+      <div>
           <h2>Contact Me</h2>
           <p>Thanks for being here! -Matt</p>
       </div>
 
-      <div class="row justify-content-md-center">
+      <div class="justify-content-md-center">
           
-      <a href="https://www.linkedin.com/in/matthew-norkaitis-8a0a0831"><div class="contact-links"><img src="assets/img/linkedin-logo.png" alt="LinkedIn Logo"></div></a>
-      <a href="https://github.com/gamesmartz"><div class="contact-links"><img src="assets/img/github-logo.png" alt="GitHub Logo"></div></a>
-      <a href="http://awnold.cgsociety.org/"><div class="contact-links" style="margin-top: 30px;"><img src="assets/img/cg-society.png" alt="CG Society Logo"></div></a>
+      <a href="https://www.linkedin.com/in/matthew-norkaitis-8a0a0831"><div class="contact-links"><img src="assets/img/linkedin-logo.png" class="img-fluid" alt="LinkedIn Logo"></div></a>
+      <a href="https://github.com/gamesmartz"><div class="contact-links"><img src="assets/img/github-logo.png" class="img-fluid" alt="GitHub Logo"></div></a>
+      <a href="http://awnold.cgsociety.org/"><div class="contact-links" style="margin-top: 30px;"><img src="assets/img/cg-society.png" class="img-fluid" alt="CG Society Logo"></div></a>
 
     </div>
     </section>
