@@ -1,32 +1,30 @@
 <?php 
   include ('modules/head.php')
 ?>
-  <title>Digital Painting - Photoshop - Pencil - Matt Norkaitis</title>
+  <title>Digital Painting - Matt Norkaitis</title>
 </head>
 
-<body>
+<?php
+  include ('modules/navbar-portfolios.php');
+?>
 
-<?php 
-    include ('modules/navbar.php') 
-?> 
-
-<section class="page-section"><?php //section start ?>
+<section id="portfolio" class="page-section" ><?php //section start ?>
   
-  <div class="container text-center"><?php //container start ?>
+  <div class="container text-center"  ><?php //container start ?>
     
-    <h2 class="thick-bold-raleway">Digital Painting with Photoshop</h2>
+    <h2 class="thick-bold-raleway portfolio-titles">Digital Painting</h2>
     <hr class="colored">
 
     <div class="position-relative"><?php //portfolio pieces container start ?>
 
-    <div class="chevrons-container">      
-      <a href="3d-modeling">
+    <div class="chevrons-container">  <?php //chevron start ?>    
+      <a href="3d-artist">
         <i class="chevron-right large material-icons" style="font-size: 80px">chevron_right</i>
       </a>
-      <a href="photo-manipulation">
+      <a href="photoshop-wizardry">
         <i class="chevron-left large material-icons" style="font-size: 80px">chevron_left</i>
       </a>
-    </div>   
+    </div>   <?php //chevron end ?>
 
     <div class="portfolio-piece mix identity" title="Deep Dungeon">
       <div class="portfolio-wrapper">

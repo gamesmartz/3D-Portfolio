@@ -1,31 +1,45 @@
 <?php 
   include ('modules/head.php')
 ?>
-  <title>Front End Developement Graphics - CSS - JS - PHP - Matt Norkaitis</title>
+  <title>Front End Designer / Developer - Matt Norkaitis</title>
 </head>
-<body>
 
-<?php 
-    include ('modules/navbar.php') 
-?> 
+<?php
+  include ('modules/navbar-portfolios.php');
+?>
 
 <section class="page-section"><?php //section start ?>
 
   <div class="container text-center wow fadeIn"><?php //container start ?>
     
-    <h2 class="thick-bold-raleway" style="font-size: 46px;">Front End Developement</h2>
+    <h2 class="thick-bold-raleway portfolio-titles">Front End Design / Developer</h2>
     <hr class="colored">  
 
     <div class="position-relative"><?php //portfolio pieces container start ?>
 
-    <div class="chevrons-container">
-      <a href="photo-manipulation">
+    <div class="chevrons-container"><?php //chevron start ?>
+      <a href="photoshop-wizardry">
         <i class="chevron-right large material-icons" style="font-size: 80px">chevron_right</i>
       </a>
-      <a href="3d-modeling">
+      <a href="3d-artist">
         <i class="chevron-left large material-icons" style="font-size: 80px">chevron_left</i>
       </a>      
-    </div>
+    </div><?php //chevron end ?>
+
+      <div class="portfolio-piece mix identity" title="GameSmartz">
+        <div class="portfolio-wrapper">
+          <a href="https://gamesmartz.com"><img src="assets/img/gamesmartz.jpg" alt="GameSmartz" style="width: 100%;">
+            <div class="caption">
+              <div class="caption-text">
+                <div class="text-category">GameSmartz</div>
+                <div class="text-category">Educational Software for Kids/Students</div>
+                <div class="text-category">Responsible for: Funding, Project Concept, Project Management, Graphics, CSS Layout, Minor Javascript, Minor PHP, Minor Mysql</div>
+              </div>            
+            </div>
+          </a>  
+            <a href="https://github.com/gamesmartz"><img class="skill-sets" style="padding: 10px; width: 60px;" src="assets/img/github-skills.png" alt="Github Skills"></a>
+        </div>
+      </div>
 
       <div class="portfolio-piece mix identity" title="Matts Memory Match Mashup">
         <div class="portfolio-wrapper">
@@ -41,7 +55,6 @@
         </div>
       </div>
 
-
       <div class="portfolio-piece mix identity" title="Caribbean Connect 4">
         <div class="portfolio-wrapper">
           <a href="Connect-Four-JS/index"><img src="assets/img/caribbean-connect-4.jpg" alt="Caribbean Connect 4" style="width: 100%;">
@@ -56,20 +69,7 @@
         </div>
       </div>
 
-    <div class="portfolio-piece mix identity" title="GameSmartz">
-        <div class="portfolio-wrapper">
-          <a href="https://gamesmartz.com"><img src="assets/img/gamesmartz.jpg" alt="GameSmartz" style="width: 100%;">
-            <div class="caption">
-              <div class="caption-text">
-                <div class="text-category">GameSmartz</div>
-                <div class="text-category">Educational Software for Kids/Students</div>
-                <div class="text-category">Responsible for: Funding, Project Concept, Project Management, Graphics, CSS Layout, Minor Javascript, Minor PHP, Minor Mysql</div>
-              </div>            
-            </div>
-          </a>  
-            <a href="https://github.com/gamesmartz"><img class="skill-sets" style="padding: 10px; width: 60px;" src="assets/img/github-skills.png" alt="Github Skills"></a>
-        </div>
-      </div>
+
 
       <div class="portfolio-piece mix identity" title="Furnishing America">
         <div class="portfolio-wrapper">

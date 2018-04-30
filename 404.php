@@ -1,7 +1,7 @@
 <?php 
   include ('modules/head.php')
 ?>
-  <title>404</title>
+  <title>404 - Page Not Found - Matt Norkaitis</title>
 </head>
 <body>
 

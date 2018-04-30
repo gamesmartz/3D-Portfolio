@@ -1,30 +1,29 @@
 <?php 
   include ('modules/head.php')
 ?>
-  <title>Front End Developement - Maya - Zbrush - Photoshop - Matt Norkaitis</title>
+  <title>3d Artist - Architectural - Matt Norkaitis</title>
 </head>
 
-<body>
-<?php 
-    include ('modules/navbar.php') 
-?> 
+<?php
+  include ('modules/navbar-portfolios.php');
+?>
 
 <section class="page-section"><?php //section start ?>
 
   <div class="container text-center"><?php //container start ?>
-    <h2 class="thick-bold-raleway">3d Modeling</h2>
+    <h2 class="thick-bold-raleway portfolio-titles" style="font-size: 42px;" >3d Artist / Architectural</h2>
     <hr class="colored">
 
     <div class="position-relative"><?php //portfolio pieces container start ?>
 
-    <div class="chevrons-container">      
+    <div class="chevrons-container"><?php //chevron start ?>      
         <a href="front-end-dev">
           <i class="chevron-right large material-icons" style="font-size: 80px">chevron_right</i>
         </a>
-        <a href="digital-art">
+        <a href="digital-painting">
           <i class="chevron-left large material-icons" style="font-size: 80px">chevron_left</i>
         </a>
-    </div>    
+    </div><?php //chevron end ?>    
 
     <div class="portfolio-piece mix identity" title="Floorplans with Maps Data">
       <div class="portfolio-wrapper">
