@@ -89,7 +89,7 @@
           <a href="photoshop-wizardry">
             <div class="wow fadeIn px-4 h-100">
               <img src="assets/img/photo-add-subtract.png" alt="Photoshop Logo">
-              <h3>Photoshop Wizardry</h3>
+              <h3>Photoshop</h3>
               <p class="mb-0">Adding / Subtracting / Modifying Images with Photoshop</p>
             </div>
           </a>
