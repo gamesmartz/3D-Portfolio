@@ -12,7 +12,7 @@
 
   <div class="container text-center"><?php //container start ?>
 
-    <h2 class="thick-bold-raleway portfolio-titles">Photoshop Wizardry</h2>
+    <h2 class="thick-bold-raleway portfolio-titles">Photoshop</h2>
     <hr class="colored">
 
     <div class="position-relative"><?php //portfolio pieces container start ?>
