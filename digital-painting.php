@@ -125,6 +125,17 @@
       </div>
     </div>
 
+    <div class="portfolio-piece mix identity" title="Tree Home">
+      <div class="portfolio-wrapper">
+        <img src="assets/img/project10.jpg" alt="" style="width: 100%;">
+        <div class="caption">
+          <div class="caption-text">
+            <span class="text-category">Tree Home</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div style="margin-top:50px;">
       <h5> Photoshop - Pencil and Paper</h5>
       <div>
