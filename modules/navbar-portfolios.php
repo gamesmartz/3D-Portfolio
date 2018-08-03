@@ -1,7 +1,11 @@
 <body>
 
 <div id="navbar-target" class="container-fluid index-nav navbar">
-    <ul class="nav hidden-nav d-flex fixed-top align-items-center justify-content-end nav-bar-shrink">
+    <ul style="    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1;" class="nav hidden-nav d-flex align-items-center justify-content-end nav-bar-shrink">
       <li class="nav-item">
         <a class="nav-link " href="/">Home</a>
       </li>
