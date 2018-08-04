@@ -2,6 +2,8 @@
     include ('modules/head.php') 
   ?> 
   <title>Matt Norkaitis - 3d Artist / Front End Designer / Front End Developer - Irvine CA</title>
+
+
 </head>
 
   <?php 
@@ -112,6 +114,8 @@
       <a href="https://www.linkedin.com/in/matthew-norkaitis-8a0a0831"><div class="contact-links"><img src="assets/img/linkedin-logo.png" class="img-fluid" alt="LinkedIn Logo"></div></a>
       <a href="https://github.com/gamesmartz"><div class="contact-links"><img src="assets/img/github-logo.png" class="img-fluid" alt="GitHub Logo"></div></a>
       <a href="http://awnold.cgsociety.org/"><div class="contact-links" style="margin-top: 30px;"><img src="assets/img/cg-society.png" class="img-fluid" alt="CG Society Logo"></div></a>
+      <div class="contact-links" style="margin-top: 30px;"><img src="https://www.codewars.com/users/gamesmartz/badges/large" class="img-fluid" alt="CG Society Logo"></div>
+
 
     </div>
     </section>

@@ -1,45 +1,28 @@
 <?php 
-  include ('modules/head.php')
+  require ('modules/head.php')
 ?>
   <title>Digital Painting - Matt Norkaitis</title>
 
 <script src="./assets/js/digital-painting.js"></script>
 
+
+
 </head>
-
-<div style="
-    position: fixed;
-    z-index: 2;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0,0,0,0.4);
-
-    ">
-      <div style=" 
-      height: 100%;     
-      display: flex;
-      align-items: center;
-      justify-content: center;          
-      
-      ">
-
-        <img src="assets/img/digital-painting/explore-1300.jpg" alt="">
-      </div>
-
-</div>
-
 
 
 
 <?php
-  include ('modules/navbar-portfolios.php');
+  require ('modules/navbar-portfolios.php');
 ?>
 
 <!-- Modal -->
-<div id="myModal" class="modal">
+<div class="imageModal" style="background-color: red;">
     <span class="close">&times;</span>
-    <img class="modal-content" id="img01">
-    <div id="caption"></div>
+    <div class="imageModal-content">
+        <img src="assets/img/digital-painting/explore-600.jpg" alt="explore-1300.jpg" class="digital-painting-images">
+    </div>
+
+    <div id="caption">test</div>
 </div>
 
 
@@ -61,20 +44,20 @@
       </a>
     </div>   <?php //chevron end ?>
 
-    <div class="portfolio-piece mix identity" title="Explore">
+    <div class="portfolio-piece mix identity">
       <div class="portfolio-wrapper">
-        <img src="assets/img/digital-painting/explore-600.jpg" alt="" style="width: 100%;">
+        <img src="assets/img/digital-painting/explore-600.jpg" alt="explore-1300.jpg" title="Explore" class="digital-painting-images">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Explore</span>
-          </div>   
+          </div>
         </div>
       </div>
     </div>
 
     <div class="portfolio-piece mix identity" title="Captain's Quarters">
       <div class="portfolio-wrapper">
-        <img src="assets/img/project2.jpg" alt="Captain's Quarters" style="width: 100%;">
+        <img src="assets/img/digital-painting/captains-quarters-600.jpg" alt="captains-quarters-1300" title="Captain's Quarters" class="digital-painting-images">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Captain's Quarters</span>
@@ -85,7 +68,7 @@
 
     <div class="portfolio-piece mix identity" title="Dragon Range">
       <div class="portfolio-wrapper">
-        <img src="assets/img/project3.jpg" alt="Dragon Range" style="width: 100%;">
+        <img src="assets/img/digital-painting/dragon-range-600.jpg" alt="dragon-range-1300" title="Dragon Range" class="digital-painting-images">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Dragon Range</span>
@@ -96,7 +79,7 @@
 
     <div class="portfolio-piece mix identity" title="Gold Horizon">
       <div class="portfolio-wrapper">
-        <img src="assets/img/project4.jpg" alt="Gold Horizon" style="width: 100%;">
+        <img src="assets/img/digital-painting/gold-horizon-600.jpg" alt="Gold Horizon" title="Gold Horizon" class="digital-painting-images">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Gold Horizon</span>
@@ -107,7 +90,7 @@
 
     <div class="portfolio-piece mix identity" title="Last Bridge">
       <div class="portfolio-wrapper">
-        <img src="assets/img/project5.jpg" alt="Last Bridge" style="width: 100%;">
+        <img src="assets/img/digital-painting/captains-quarters-600.jpg" alt="explore-1300" title="Last Bridge" class="digital-painting-images">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Last Bridge</span>
@@ -118,7 +101,7 @@
 
     <div class="portfolio-piece mix identity" title="Guardians">
       <div class="portfolio-wrapper">
-        <img src="assets/img/project6.jpg" alt="Guardians" style="width: 100%;">
+        <img src="assets/img/digital-painting/captains-quarters-600.jpg" alt="explore-1300" title="Guardians" class="digital-painting-images">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Guardians</span>
@@ -129,7 +112,7 @@
 
     <div class="portfolio-piece mix identity" title="Sunset Journey">
       <div class="portfolio-wrapper">
-        <img src="assets/img/project7.jpg" alt="Sunset Journey" style="width: 100%;">
+        <img src="assets/img/digital-painting/captains-quarters-600.jpg" alt="explore-1300" title="Sunset Journey" class="digital-painting-images">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Sunset Journey</span>
@@ -140,7 +123,7 @@
 
     <div class="portfolio-piece mix identity" title="Mist and Forest">
       <div class="portfolio-wrapper">
-        <img src="assets/img/project8.jpg" alt="Mist and Forest" style="width: 100%;">
+        <img src="assets/img/digital-painting/captains-quarters-600.jpg" alt="explore-1300" title=""Mist and Forest" class="digital-painting-images">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Mist and Forest</span>
@@ -151,7 +134,7 @@
 
     <div class="portfolio-piece mix identity" title="The Core">
       <div class="portfolio-wrapper">
-        <img src="assets/img/project9.jpg" alt="The Core" style="width: 100%;">
+        <img src="assets/img/digital-painting/captains-quarters-600.jpg" alt="explore-1300" title="Explore" class="digital-painting-images">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">The Core</span>
@@ -162,7 +145,7 @@
 
     <div class="portfolio-piece mix identity" title="Tree Home">
       <div class="portfolio-wrapper">
-        <img src="assets/img/project10.jpg" alt="Tree Home" style="width: 100%;">
+        <img src="assets/img/digital-painting/captains-quarters-600.jpg" alt="explore-1300" title="" class="digital-painting-images">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Tree Home</span>
