@@ -16,13 +16,14 @@
 ?>
 
 <!-- Modal -->
-<div class="imageModal" style="background-color: red;">
-    <span class="close">&times;</span>
+<div class="imageModal">
+
     <div class="imageModal-content">
-        <img src="assets/img/digital-painting/explore-600.jpg" alt="explore-1300.jpg" class="digital-painting-images">
+        <span class="close">&times;</span>
+        <img src="assets/img/digital-painting/explore-1300.jpg" alt="explore-1300.jpg" class="digital-painting-images">
     </div>
 
-    <div id="caption">test</div>
+<!--    <div id="caption">test</div>-->
 </div>
 
 
