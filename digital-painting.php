@@ -19,7 +19,6 @@
 <div class="imageModal">
 
     <div class="imageModal-content">
-        <span class="close">&times;</span>
         <img src="assets/img/digital-painting/explore-1300.jpg" class="modal-digital-painting-image">
     </div>
 

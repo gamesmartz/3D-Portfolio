@@ -2,8 +2,6 @@
 $(document).ready(initiateApp);
 
 
-
-
 function initiateApp() {
 
     $(".digital-painting-images").click(function () {
