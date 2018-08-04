@@ -2,6 +2,7 @@
   include ('modules/head.php')
 ?>
   <title>Photoshop Wizardry - Matt Norkaitis</title>
+
 </head>
 
 <?php

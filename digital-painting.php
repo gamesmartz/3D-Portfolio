@@ -5,11 +5,7 @@
 
 <script src="./assets/js/digital-painting.js"></script>
 
-
-
 </head>
-
-
 
 <?php
   require ('modules/navbar-portfolios.php');
@@ -19,13 +15,11 @@
 <div class="imageModal">
 
     <div class="imageModal-content">
-        <span class="close">&times;</span>
         <img src="assets/img/digital-painting/explore-1300.jpg" class="modal-digital-painting-image">
     </div>
 
 <!--    <div id="caption">test</div>-->
 </div>
-
 
 <section id="portfolio" class="page-selection" ><?php //section start ?>
   

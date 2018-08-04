@@ -1,8 +1,7 @@
   <?php 
     include ('modules/head.php') 
   ?> 
-  <title>Matt Norkaitis - 3d Artist / Front End Designer / Front End Developer - Irvine CA</title>
-
+  <title>Matt Norkaitis - 3d Artist /  Designer / Developer - Irvine Ca</title>
 
 </head>
 
