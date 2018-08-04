@@ -17,7 +17,7 @@
         <div class="col-12 my-auto text-center text-white">
           <div class="header-title">Matt Norkaitis</div>
           <div class="masthead-subtitle">Company: Tech Magic</div>
-          <div class="masthead-subtitle"><a href="3d-artist">3d Artist</a> / <a href="front-end-dev">Front End Designer / Front End Developer</a> / <a href="digital-painting">Digital Painter</a> / <a href="#about">Single Parent</a></div>
+          <div class="masthead-subtitle"><a href="3d-artist">3d Artist</a> / <a href="front-end-dev">Front End Designer / Front End Developer</a> / <a href="digital-painting">Digital Painter</a></div>
         </div>
       </div>
     </div>
