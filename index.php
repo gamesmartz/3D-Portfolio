@@ -37,7 +37,7 @@
       <div class="row">
         
         <div class="col-lg-6">
-        <a href="digital-art.php"> <img src="assets/img/me-painting-golden-horizon.jpg" class="img-fluid rounded my-5" alt="painting-golden-horizon"></a>
+        <img src="assets/img/me-painting-golden-horizon.jpg" class="img-fluid rounded my-5" alt="painting-golden-horizon">
         </div>
 
         <div class="col-lg-6 my-auto">
