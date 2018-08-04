@@ -5,11 +5,7 @@
 
 <script src="./assets/js/digital-painting.js"></script>
 
-
-
 </head>
-
-
 
 <?php
   require ('modules/navbar-portfolios.php');
@@ -24,7 +20,6 @@
 
 <!--    <div id="caption">test</div>-->
 </div>
-
 
 <section id="portfolio" class="page-selection" ><?php //section start ?>
   

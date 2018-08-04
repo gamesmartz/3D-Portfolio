@@ -23,7 +23,18 @@
         <a href="digital-painting">
           <i class="chevron-left large material-icons" style="font-size: 80px">chevron_left</i>
         </a>
-    </div><?php //chevron end ?>    
+    </div><?php //chevron end ?>
+
+    <div class="portfolio-piece mix identity" title="Architectural Massing">
+        <div class="portfolio-wrapper">
+            <a href="https://youtu.be/0H_EhQu_7ng"><img src="assets/img/3d-massing.jpg" alt="" style="width: 100%;"></a>
+            <div class="caption">
+                <div class="caption-text">
+                    <span class="text-category">Architectural Massing</span>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="portfolio-piece mix identity" title="Floorplans with Maps Data">
       <div class="portfolio-wrapper">
@@ -47,16 +58,16 @@
         </div>
       </div>
 
-      <div class="portfolio-piece mix identity" title="Architectural Massing">
+    <div class="portfolio-piece mix identity" title="Maya / Zbrush / Mudbox - Low Poly">
         <div class="portfolio-wrapper">
-          <a href="https://youtu.be/0H_EhQu_7ng"><img src="assets/img/3d-massing.jpg" alt="" style="width: 100%;"></a>
-          <div class="caption">
-            <div class="caption-text">
-              <span class="text-category">Architectural Massing</span>
-            </div>           
-          </div>
+            <a href="https://youtu.be/JLvia4UXeHw"><img src="assets/img/maya-mudbox.jpg" alt="" style="width: 100%;"></a>
+            <div class="caption">
+                <div class="caption-text">
+                    <span class="text-category">Maya / Zbrush / Mudbox - Low Poly</span>
+                </div>
+            </div>
         </div>
-      </div>
+    </div>
 
       <div class="portfolio-piece mix identity" title="Architectural Stylized">
         <div class="portfolio-wrapper">
@@ -65,17 +76,6 @@
             <div class="caption-text">
               <span class="text-category">Architectural Stylized</span>
             </div>           
-          </div>
-        </div>
-      </div>
-
-      <div class="portfolio-piece mix identity" title="Maya / Zbrush / Mudbox - Low Poly">
-        <div class="portfolio-wrapper">
-          <a href="https://youtu.be/JLvia4UXeHw"><img src="assets/img/maya-mudbox.jpg" alt="" style="width: 100%;"></a>
-          <div class="caption">
-            <div class="caption-text">
-              <span class="text-category">Maya / Zbrush / Mudbox - Low Poly</span>
-            </div>         
           </div>
         </div>
       </div>
@@ -98,8 +98,7 @@
 
 <?php 
     include ('modules/footer.php') 
-?> 
-
+?>
 
 </body>
 </html>
