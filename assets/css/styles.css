@@ -1,8 +1,17 @@
 /* Organized from Top to Bottom Header to Footer, Then Page in Order */
 
 * {
-  /* transition: all 0.5s ease; */
+   /*transition: all 0.5s ease;*/
 }
+
+/* set to help 100% height on modal */
+html, body {
+  margin:0;
+  padding:0;
+  height:100%;
+}
+
+
 .text-align-center {
   text-align: center;
 }
@@ -264,12 +273,12 @@ a.anchor-offset {
 
 .imageModal {
   display: none;  /* Hidden by default */
-  position: absolute;
+  position: fixed;
   text-align:center;
   z-index: 1; /* Sit on top */
   padding-top: 50px; /* Location of the box */
   width: 100%; /* Full width */
-  height: 100%; /* Full height */
+  height: 100%;
   overflow: auto; /* Enable scroll if needed */
   background-color: rgba(160, 160, 160, 0.9); /* Black w/ opacity */
 }
@@ -277,7 +286,7 @@ a.anchor-offset {
 /* Modal Content */
 .imageModal-content {
   margin: 0 auto;
-  height: calc(100vh);
+  /*height: calc(100vh);*/
   width: 90%;
   position: relative;
 }
