@@ -25,13 +25,20 @@ $(document).ready(function(){
             // console.log(digitalPaintingImgAlt);
         showModal(digitalPaintingImgAlt);
 
-    })
+    });
 
     function showModal(imageAltTag) {
-       // console.log(imageAltTag);
+        //console.log(imageAltTag);
         $(".imageModal").addClass("showModal");
-
     }
+
+    $(".imageModal").click(function () {
+        console.log('test');
+        $(".imageModal").removeClass("showModal");
+
+    });
+
+
 
 
 
