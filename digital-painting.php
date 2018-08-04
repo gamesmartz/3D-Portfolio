@@ -20,7 +20,7 @@
 
     <div class="imageModal-content">
         <span class="close">&times;</span>
-        <img src="assets/img/digital-painting/explore-1300.jpg" alt="explore-1300.jpg" class="digital-painting-images">
+        <img src="assets/img/digital-painting/explore-1300.jpg" class="modal-digital-painting-image">
     </div>
 
 <!--    <div id="caption">test</div>-->
@@ -47,7 +47,7 @@
 
     <div class="portfolio-piece mix identity">
       <div class="portfolio-wrapper">
-        <img src="assets/img/digital-painting/explore-600.jpg" alt="explore-1300.jpg" title="Explore" class="digital-painting-images">
+        <img src="assets/img/digital-painting/explore-600.jpg" alt="explore-1300" title="Explore" class="digital-painting-images">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Explore</span>
@@ -80,7 +80,7 @@
 
     <div class="portfolio-piece mix identity" title="Gold Horizon">
       <div class="portfolio-wrapper">
-        <img src="assets/img/digital-painting/gold-horizon-600.jpg" alt="Gold Horizon" title="Gold Horizon" class="digital-painting-images">
+        <img src="assets/img/digital-painting/gold-horizon-600.jpg" alt="gold-horizon-1300" title="Gold Horizon" class="digital-painting-images">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Gold Horizon</span>

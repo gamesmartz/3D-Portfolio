@@ -28,8 +28,10 @@ $(document).ready(function(){
     });
 
     function showModal(imageAltTag) {
-        //console.log(imageAltTag);
-        $(".imageModal").addClass("showModal");
+
+        console.log(imageAltTag);
+        $('.imageModal').addClass('showModal');
+        $('.modal-digital-painting-image').attr('src', 'assets/img/digital-painting/' + imageAltTag + '.jpg');
     }
 
     $(".imageModal").click(function () {
