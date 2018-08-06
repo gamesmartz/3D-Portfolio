@@ -1,7 +1,7 @@
   <?php 
     include ('modules/head.php') 
   ?> 
-  <title>Matt Norkaitis - 3d Artist /  Designer / Developer - Irvine Ca</title>
+  <title>Matt Norkaitis - 3d Artist / Designer / Developer - Irvine Ca</title>
 
 </head>
 
@@ -16,7 +16,7 @@
         <div class="col-12 my-auto text-center text-white">
           <div class="header-title">Matt Norkaitis</div>
           <div class="masthead-subtitle">Company: Tech Magic</div>
-          <div class="masthead-subtitle"><a href="3d-artist">3d Artist</a> / <a href="front-end-dev">Front End Designer / Front End Developer</a> / <a href="digital-painting">Digital Painter</a></div>
+          <div class="masthead-subtitle">3d Artist / Digital Painter / Front End Designer & Developer</div>
         </div>
       </div>
     </div>
@@ -64,7 +64,7 @@
             <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100">
               <img src="assets/img/artist-pallet.png" alt="Artist Pallet">
               <h3>Digital Painting</h3>
-              <p class="mb-0">Digital Painting with Photoshop</p>
+              <p class="mb-0">Digital Painting</p>
             </div>
           </a>
         </div>
@@ -73,7 +73,7 @@
             <div class="px-4 pb-4 pb-lg-0 h-100">
               <img src="assets/img/3d-shape.png" alt="3d Shape">
               <h3>3d Artist</h3>
-              <p class="mb-0">3d Modeling for Architecture and Entertainment.</p>
+              <p class="mb-0">3d Modeling for Architecture and Entertainment</p>
             </div>
           </a>
         </div>
@@ -82,7 +82,7 @@
             <div class="px-4 pb-4 pb-lg-0 h-100">
               <img src="assets/img/closing-braces.png" alt="Closing Braces">
               <h3>Front-End Design / Development</h3>
-              <p class="mb-0">Programming with html / css / javascript / php / mysql.</p>
+              <p class="mb-0">HTML / CSS / Javascript / PHP / MySQL</p>
             </div>
           </a>
         </div>
@@ -91,7 +91,7 @@
             <div class="wow fadeIn px-4 h-100">
               <img src="assets/img/photo-add-subtract.png" alt="Photoshop Logo">
               <h3>Photoshop</h3>
-              <p class="mb-0">Adding / Subtracting / Modifying Images with Photoshop</p>
+              <p class="mb-0">Image Manipulation</p>
             </div>
           </a>
         </div>
