@@ -21,7 +21,7 @@
 <!--    <div id="caption">test</div>-->
 </div>
 
-<section id="portfolio" class="page-selection" ><?php //section start ?>
+<section class="page-section"><?php //section start ?>
   
   <div class="container text-center"  ><?php //container start ?>
     
