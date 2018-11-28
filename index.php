@@ -44,7 +44,7 @@
          <h1>Hi, I'm Matt Norkaitis</h1>
           <hr class="colored">
           <p>I am a <a href="3d-modeling.php">3d Artist</a>, <a href="digital-art.php">Front End Designer</a> and <a href="front-end-dev.php">Front End Developer</a> living in Irvine Ca. All the images and content on this site are my own. I have 15 years experience as a 3d Artist, and 7 years experience as a Front End Designer / Front End Developer. Thanks for visting my site, much appreciated!</p>
-          <p>I'm current developing a learning tool for kids as well as running the technical aspects of a furniture company my partner and I started 8 years ago, growing the company from nothing to the largest privately owned furniture company in Orange County.</p>
+            <p>I'm currently developing <a href="https://gamesmartz.com">GameSmartz a learning tool for kids</a> which adds education to their entertainment.</p>
           <p>I am also a single father who has raised his son from 1 years old to 14 solo.</p>        
         </div>
       </div>
