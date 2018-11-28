@@ -33,8 +33,8 @@
             <div class="caption">
               <div class="caption-text">
                 <div class="text-category">GameSmartz</div>
-                <div class="text-category">Educational Software for Kids/Students</div>
-                <div class="text-category">Responsible for: Funding, Project Concept, Project Management, Graphics, CSS Layout, Minor Javascript, Minor PHP, Minor Mysql</div>
+                <div class="text-category">Educational Software for Kids</div>
+                <div class="text-category">Responsible for Everything: Funding, Project Concept, Project Management, Graphics, Front End Dev, Back End Dev</div>
               </div>            
             </div>
           </a>  
@@ -62,7 +62,7 @@
             <div class="caption">
               <div class="caption-text">
                 <div class="text-category">Caribbean Connect 4</div>
-                <div class="text-category">Responsible for: Graphics, Minor Javascript, CSS Layout</div>
+                <div class="text-category">Responsible for: Graphics, Some Javascript, All CSS Layout</div>
               </div>            
             </div>
           </a>  
@@ -78,10 +78,10 @@
             <div class="caption">
               <div class="caption-text">   
                 <div class="text-category">Furnishing America</div>
-                <div class="text-category">2.8 Million Unique Users</div>
-                <div class="text-category">18.3 Million Page Views</div>
-                <div class="text-category">Responsible for every aspect of this website.</div>
-                <div class="text-category">SEO - Front-end Development - Graphics - CSS Layout</div>
+                <div class="text-category">Lifetime - 2.8 Million Unique Users</div>
+                <div class="text-category">Lifetime - 18.3 Million Page Views</div>
+                <div class="text-category">Lifetime - SEO Rank #1 in Many Local Furniture Categories</div>
+                <div class="text-category">Responsible for: Front End Dev, Back End Dev, Graphics, SEO</div>
               </div>            
             </div>
           </a>  
