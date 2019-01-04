@@ -1,47 +1,43 @@
-<?php 
-  require ('modules/head.php')
-?>
-  <title>Digital Painting - Matt Norkaitis</title>
+<?php require ('modules/head.php') ?>
+
+  <title>Digital Painting - Photoshop - Matt Norkaitis</title>
 
 <script src="./assets/js/digital-painting.js"></script>
 
 </head>
 
-<?php
-  require ('modules/navbar-portfolios.php');
-?>
+<?php require ('modules/navbar-portfolios.php'); ?>
 
-<!-- Modal -->
+<?php //Pop Up Modal ?>
 <div class="imageModal">
-
     <div class="imageModal-content">
         <img src="assets/img/digital-painting/explore-1300.jpg" class="modal-digital-painting-image">
     </div>
-
-<!--    <div id="caption">test</div>-->
 </div>
 
-<section class="page-section"><?php //section start ?>
+<section class="page-section">
   
-  <div class="container text-center"  ><?php //container start ?>
-    
+  <div class="container text-center">
+
+<?php //Title ?>
     <h2 class="thick-bold-raleway portfolio-titles">Digital Painting</h2>
     <hr class="colored">
 
-    <div class="position-relative"><?php //portfolio pieces container start ?>
+    <div class="position-relative">
 
-    <div class="chevrons-container">  <?php //chevron start ?>    
+<?php //Chevrons ?>
+    <div class="chevrons-container">
       <a href="3d-artist">
         <i class="chevron-right large material-icons" style="font-size: 80px">chevron_right</i>
       </a>
       <a href="photoshop-wizardry">
         <i class="chevron-left large material-icons" style="font-size: 80px">chevron_left</i>
       </a>
-    </div>   <?php //chevron end ?>
+    </div>
 
     <div class="portfolio-piece mix identity">
       <div class="portfolio-wrapper">
-        <img src="assets/img/digital-painting/explore-600.jpg" alt="explore-1300" title="Explore" class="digital-painting-images">
+        <img src="assets/img/digital-painting/explore-600.jpg" alt="Painting of two Explorers Deep in a Dungeon" title="Painting of two Explorers Deep in a Dungeon" class="digital-painting-images" id="explore-1300">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Explore</span>
@@ -50,9 +46,9 @@
       </div>
     </div>
 
-    <div class="portfolio-piece mix identity" title="Captain's Quarters">
+    <div class="portfolio-piece mix identity">
       <div class="portfolio-wrapper">
-        <img src="assets/img/digital-painting/captains-quarters-600.jpg" alt="captains-quarters-1300" title="Captain's Quarters" class="digital-painting-images">
+        <img src="assets/img/digital-painting/captains-quarters-600.jpg" alt="Painting of inside a Pirate Captains Quarters" title="Painting of inside a Pirate Captains Quarters" class="digital-painting-images" id="captains-quarters-1300">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Captain's Quarters</span>
@@ -61,9 +57,9 @@
       </div>
     </div>
 
-    <div class="portfolio-piece mix identity" title="Dragon Range">
+    <div class="portfolio-piece mix identity">
       <div class="portfolio-wrapper">
-        <img src="assets/img/digital-painting/dragon-range-600.jpg" alt="dragon-range-1300" title="Dragon Range" class="digital-painting-images">
+        <img src="assets/img/digital-painting/dragon-range-600.jpg" alt="Painting of a Landscape in Mist" title="c" class="digital-painting-images" id="dragon-range-1300">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Dragon Range</span>
@@ -72,9 +68,9 @@
       </div>
     </div>
 
-    <div class="portfolio-piece mix identity" title="Gold Horizon">
+    <div class="portfolio-piece mix identity">
       <div class="portfolio-wrapper">
-        <img src="assets/img/digital-painting/gold-horizon-600.jpg" alt="gold-horizon-1300" title="Gold Horizon" class="digital-painting-images">
+        <img src="assets/img/digital-painting/gold-horizon-600.jpg" alt="Painting of a Sunset over a Future City" title="Painting of a Sunset over a Future City" class="digital-painting-images" id="gold-horizon-1300">
         <div class="caption">
           <div class="caption-text">
             <span class="text-category">Gold Horizon</span>
@@ -83,23 +79,33 @@
       </div>
     </div>
 
+        <div class="portfolio-piece mix identity">
+            <div class="portfolio-wrapper">
+                <img src="assets/img/digital-painting/starlight-home-600.jpg" alt="Starlight Home" title="Starlight Home" class="digital-painting-images" id="starlight-home-1300">
+                <div class="caption">
+                    <div class="caption-text">
+                        <span class="text-category">Starlight Home</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<?php //Bottom Icons ?>
     <div style="margin-top:50px;">
-      <h5> Photoshop - Pencil and Paper</h5>
       <div>
-        <a href="https://www.adobe.com/products"><img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop"></a>
+        <a href="https://www.adobe.com/products">
+            <img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop">
+        </a>
         <img class="skill-sets" src="assets/img/pencil-paper-icon.png" alt="Pencil and Paper">
       </div>
     </div>
 
-    </div><?php //portfolio pieces container end ?>
+    </div>
+    <?php //Container End ?>
+  </div>
+</section>
 
-  </div><?php //container end ?>
-
-</section><?php //section end ?>
-
-<?php 
-    include ('modules/footer.php') 
-?> 
+<?php include ('modules/footer.php') ?>
 
 </body>
 </html>

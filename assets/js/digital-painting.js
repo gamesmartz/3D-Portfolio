@@ -5,7 +5,7 @@ $(document).ready(initiateApp);
 function initiateApp() {
 
     $(".digital-painting-images").click(function () {
-        var digitalPaintingImgAlt =  $(this).attr('alt');
+        var digitalPaintingImgAlt =  $(this).attr('id');
         // console.log(digitalPaintingImgAlt);
         showModal(digitalPaintingImgAlt);
 
