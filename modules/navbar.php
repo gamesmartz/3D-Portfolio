@@ -1,3 +1,4 @@
+<?php //Scroll Spy to Highlight Menu Items based on Page Location - Bootstrap ?>
 <body style="position: relative; " data-spy="scroll" data-target=".navbar" data-offset="50">
 
 <div id="navbar-target" class="container-fluid index-nav navbar">

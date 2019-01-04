@@ -1,13 +1,10 @@
-  <?php 
-    include ('modules/head.php') 
-  ?> 
-  <title>Matt Norkaitis - 3d Artist / Designer / Developer - Irvine Ca</title>
+  <?php include ('modules/head.php'); ?>
+
+  <title>Matt Norkaitis - Technical Artist / Front End Dev - Irvine Ca</title>
 
 </head>
 
-  <?php 
-    include ('modules/navbar.php') 
-  ?> 
+  <?php include ('modules/navbar.php'); ?>
 
   <header id="header-target" class="header-style">
     
@@ -15,8 +12,7 @@
       <div class="row h-100">
         <div class="col-12 my-auto text-center text-white">
           <div class="header-title">Matt Norkaitis</div>
-          <div class="masthead-subtitle">Company: Tech Magic</div>
-          <div class="masthead-subtitle">3d Artist / Digital Painter / Front End Designer & Developer</div>
+          <div class="masthead-subtitle">Technical Artist / Front End Dev</div>
         </div>
       </div>
     </div>
@@ -43,9 +39,8 @@
         <div class="col-lg-6 my-auto">
          <h1>Hi, I'm Matt Norkaitis</h1>
           <hr class="colored">
-          <p>I am a <a href="3d-modeling.php">3d Artist</a>, <a href="digital-art.php">Front End Designer</a> and <a href="front-end-dev.php">Front End Developer</a> living in Irvine Ca. All the images and content on this site are my own. I have 15 years experience as a 3d Artist, and 7 years experience as a Front End Designer / Front End Developer. Thanks for visting my site, much appreciated!</p>
-            <p>I'm currently developing <a href="https://gamesmartz.com">GameSmartz a learning tool for kids</a> which adds education to entertainment.</p>
-          <p>I am also a single father who has raised his son from 1 years old to 14 solo.</p>        
+          <p>I am a Front End Dev / Technical Artist living in Irvine Ca. All the images and content on this site are my own. I have 15 years experience as a 3d Modeler, and 8 years experience as a Front End Designer & Dev. Thanks for visting my site, much appreciated!</p>
+          <p>I am also a single father.</p>
         </div>
       </div>
     </div>
@@ -110,7 +105,7 @@
 
       <div class="justify-content-md-center">
           
-      <a href="https://www.linkedin.com/in/matthew-norkaitis-8a0a0831"><div class="contact-links"><img src="assets/img/linkedin-logo.png" class="img-fluid" alt="LinkedIn Logo"></div></a>
+      <a href="https://www.linkedin.com/in/matthew-norkaitis"><div class="contact-links"><img src="assets/img/linkedin-logo.png" class="img-fluid" alt="LinkedIn Logo"></div></a>
       <a href="https://github.com/gamesmartz"><div class="contact-links"><img src="assets/img/github-logo.png" class="img-fluid" alt="GitHub Logo"></div></a>
       <a href="http://awnold.cgsociety.org/"><div class="contact-links" style="margin-top: 30px;"><img src="assets/img/cg-society.png" class="img-fluid" alt="CG Society Logo"></div></a>
       <div class="contact-links" style="margin-top: 30px;"><img src="https://www.codewars.com/users/gamesmartz/badges/large" class="img-fluid" alt="CG Society Logo"></div>
@@ -120,9 +115,7 @@
     </section>
   </div>
 
-<?php
-  include ('modules/footer.php');
-?>
+<?php include ('modules/footer.php'); ?>
 
 </body>
 </html>

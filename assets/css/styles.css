@@ -203,7 +203,7 @@ a.anchor-offset {
 }
 .portfolio-wrapper img {
   border-radius: 7px;
-  cursor: pointer;
+  /*cursor: pointer;*/
 }
 
 .contact-links {

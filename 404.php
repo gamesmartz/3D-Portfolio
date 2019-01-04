@@ -1,13 +1,11 @@
-<?php 
-  include ('modules/head.php')
-?>
+<?php include ('modules/head.php'); ?>
+
   <title>404 - Page Not Found - Matt Norkaitis</title>
+
 </head>
 <body>
 
-<?php 
-    include ('modules/navbar.php') 
-?> 
+<?php include ('modules/navbar.php'); ?>
 
 <section class="page-section">
 
@@ -16,14 +14,11 @@
     <h2 class="thick-bold-raleway">File Not Found</h2>
     <hr class="colored">
 
-
-  </div><?php //container end ?>
+  </div>
 
 </section>
 
-<?php 
-    include ('modules/footer.php') 
-?> 
+<?php include ('modules/footer.php'); ?>
 
 </body>
 </html>
