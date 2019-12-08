@@ -31,10 +31,14 @@
   <div class="page-section" id="about">
     <div class="container container-me text-center">
       <div class="row">
-        
-        <div class="col-lg-6">
-        <img src="assets/img/me-painting-golden-horizon.jpg" class="img-fluid rounded my-5" alt="painting-golden-horizon">
-        </div>
+
+
+              <div class="col-lg-6">
+                  <a href="digital-painting">
+                      <img src="assets/img/me-painting-golden-horizon.jpg" class="img-fluid rounded my-5" alt="painting-golden-horizon">
+                  </a>
+              </div>
+
 
         <div class="col-lg-6 my-auto">
          <h1>Hi, I'm Matt Norkaitis</h1>

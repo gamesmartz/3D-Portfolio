@@ -35,12 +35,14 @@
 
 <?php //Chevrons ?>
     <div class="chevrons-container">
-      <a href="3d-artist">
-        <i class="chevron-right large material-icons" style="font-size: 100px">chevron_right</i>
-      </a>
-      <a href="photoshop-wizardry">
+
+    <a href="photoshop-wizardry">
         <i class="chevron-left large material-icons" style="font-size: 100px">chevron_left</i>
-      </a>
+    </a>
+    <a href="front-end-dev">
+    <i class="chevron-right large material-icons" style="font-size: 100px">chevron_right</i>
+    </a>
+
     </div>
 
     <div class="portfolio-piece mix identity">
