@@ -23,12 +23,12 @@
 
 <?php //Chevrons Start ?>
     <div class="chevrons-container">
-      <a href="digital-painting">
-        <i class="chevron-right large material-icons" style="font-size: 100px">chevron_right</i>
-      </a>
-      <a href="front-end-dev">
+      <a href="3d-artist">
         <i class="chevron-left large material-icons" style="font-size: 100px">chevron_left</i>
-      </a>      
+      </a>
+        <a href="digital-painting">
+            <i class="chevron-right large material-icons" style="font-size: 100px">chevron_right</i>
+        </a>
     </div>
 
       <div class="portfolio-piece mix identity" title="Photo Manipulation with Photoshop">

@@ -29,10 +29,10 @@
 <?php //Chevrons ?>
         <div class="chevrons-container">
         <a href="front-end-dev">
-          <i class="chevron-right large material-icons" style="font-size: 100px">chevron_right</i>
-        </a>
-        <a href="digital-painting">
           <i class="chevron-left large material-icons" style="font-size: 100px">chevron_left</i>
+        </a>
+        <a href="photoshop-wizardry">
+            <i class="chevron-right large material-icons" style="font-size: 100px">chevron_right</i>
         </a>
     </div>
 
