@@ -39,8 +39,10 @@
         <div class="col-lg-6 my-auto">
          <h1>Hi, I'm Matt Norkaitis</h1>
           <hr class="colored">
-          <p>I am a Front End Dev / Technical Artist living in Irvine Ca. All the images and content on this site are my own. I have 15 years experience as a 3d Modeler, and 8 years experience as a Front End Designer & Dev. Thanks for visting my site, much appreciated!</p>
-          <p>I am also a single father.</p>
+          <p>I am a Front End Dev / Technical Artist living in Irvine Ca. All the images and content on this site are my own. I have 15 years experience as a 3d Modeler in architecture and games, and 8 years experience as a Front End Designer, two years experience as a software dev and two years experience in photoshop painting. Also a single father.
+          My current company is <a style="color: #00A3FF" href="https://gamesmartz.com">Gamesmartz</a>, a learning solution integrating learning with games and media. Thanks for visting my site, much appreciated!
+          </p>
+
         </div>
       </div>
     </div>

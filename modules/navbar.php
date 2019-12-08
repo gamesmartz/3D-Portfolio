@@ -13,7 +13,7 @@
       <li class="nav-item">
         <a class="nav-link " href="#portfolio">Portfolios</a>
       </li>
-      <li class="nav-item far-right-nav-margin">
+      <li style="margin-right: 20px;" class="nav-item far-right-nav-margin">
         <a class="nav-link " href="#contact">Contact</a>
       </li>
     </ul>

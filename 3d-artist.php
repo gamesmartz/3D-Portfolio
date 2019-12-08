@@ -29,23 +29,14 @@
 <?php //Chevrons ?>
         <div class="chevrons-container">
         <a href="front-end-dev">
-          <i class="chevron-right large material-icons" style="font-size: 80px">chevron_right</i>
+          <i class="chevron-right large material-icons" style="font-size: 100px">chevron_right</i>
         </a>
         <a href="digital-painting">
-          <i class="chevron-left large material-icons" style="font-size: 80px">chevron_left</i>
+          <i class="chevron-left large material-icons" style="font-size: 100px">chevron_left</i>
         </a>
     </div>
 
-    <div class="portfolio-piece mix identity" title="Maya / Zbrush / Mudbox - Low Poly">
-        <div class="portfolio-wrapper">
-            <a href="https://youtu.be/JLvia4UXeHw"><img src="assets/img/maya-mudbox.jpg" alt="Humanoid Modeling with Maya / Mudbox" title="Humanoid Modeling with Maya / Mudbox" style="width: 100%;"></a>
-            <div class="caption">
-                <div class="caption-text">
-                    <span class="text-category">Humanoid Modeling</span>
-                </div>
-            </div>
-        </div>
-    </div>
+
 
     <div class="portfolio-piece mix identity" title="Architectural Massing">
         <div class="portfolio-wrapper">
@@ -90,6 +81,17 @@
           </div>
         </div>
       </div>
+
+        <div class="portfolio-piece mix identity" title="Maya / Zbrush / Mudbox - Low Poly">
+            <div class="portfolio-wrapper">
+                <a href="https://youtu.be/JLvia4UXeHw"><img src="assets/img/maya-mudbox.jpg" alt="Humanoid Modeling with Maya / Mudbox" title="Humanoid Modeling with Maya / Mudbox" style="width: 100%;"></a>
+                <div class="caption">
+                    <div class="caption-text">
+                        <span class="text-category">Humanoid Modeling</span>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     </div>
 <?php //Container End ?>

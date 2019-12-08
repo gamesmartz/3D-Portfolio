@@ -36,10 +36,10 @@
 <?php //Chevrons ?>
     <div class="chevrons-container">
       <a href="3d-artist">
-        <i class="chevron-right large material-icons" style="font-size: 80px">chevron_right</i>
+        <i class="chevron-right large material-icons" style="font-size: 100px">chevron_right</i>
       </a>
       <a href="photoshop-wizardry">
-        <i class="chevron-left large material-icons" style="font-size: 80px">chevron_left</i>
+        <i class="chevron-left large material-icons" style="font-size: 100px">chevron_left</i>
       </a>
     </div>
 

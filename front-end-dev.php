@@ -32,77 +32,44 @@
 <?php //Chevrons ?>
     <div class="chevrons-container">
       <a href="photoshop-wizardry">
-        <i class="chevron-right large material-icons" style="font-size: 80px">chevron_right</i>
+        <i class="chevron-right large material-icons" style="font-size: 100px">chevron_right</i>
       </a>
       <a href="3d-artist">
-        <i class="chevron-left large material-icons" style="font-size: 80px">chevron_left</i>
+        <i class="chevron-left large material-icons" style="font-size: 100px">chevron_left</i>
       </a>
     </div>
 
-      <div class="portfolio-piece mix identity">
-        <div class="portfolio-wrapper">
-          <a href="Memory-Match-JS-OOP/index">
-              <img src="assets/img/memory-match.jpg" alt="Memory Match Art Portfolio" title="Memory Match Art Portfolio" style="width: 100%;">
-            <div class="caption">
-              <div class="caption-text">
-                <div class="text-category">Memory Match Art Portfolio</div>
-                <div class="text-category">Responsible for Everything: Graphics, Javascript, CSS Layout</div>
-              </div>            
-            </div>
-          </a>  
-            <a href="https://github.com/gamesmartz/Memory-Match-JS-OOP">
-                <img class="skill-sets" style="padding: 10px; width: 60px;" src="assets/img/github-skills.png" alt="Github Link" title="Github Link">
-            </a>
-        </div>
-      </div>
 
-      <div class="portfolio-piece mix identity">
-        <div class="portfolio-wrapper">
-          <a href="Connect-Four-JS/index">
-              <img src="assets/img/caribbean-connect-4.jpg" alt="Caribbean Connect 4" title="Caribbean Connect 4" style="width: 100%;">
-            <div class="caption">
-              <div class="caption-text">
-                <div class="text-category">Caribbean Connect 4</div>
-                <div class="text-category">Responsible for: Graphics, Some Javascript, All CSS Layout</div>
-              </div>            
+        <div style="margin: 0 10px;" class="portfolio-piece mix identity" title="GameSmartz">
+            <a href="https://gamesmartz.com"><div class="portfolio-wrapper">
+                <img src="assets/img/gamesmartz.png" alt="GameSmartz Website Logo Image" title="GameSmartz Website Logo Image" style="width: 100%;">
+                <div class="caption">
+                    <div class="caption-text">
+                        <div class="text-category">GameSmartz.com</div>
+                        <div class="text-category">Development 2015-Current</div>
+                        <div class="text-category">Edu solution to integrated learning with games and media</div>
+                        <div class="text-category">Responsible for all aspects, including the concept, front-end and back-end programing, database, graphics, beta-testing, seo and patent</div>
+                    </div>
+                </div>
+                </a>
             </div>
-          </a>  
-            <a href="https://github.com/gamesmartz/Connect-Four-JS">
-                <img class="skill-sets" style="padding: 10px; width: 60px;" src="assets/img/github-skills.png" alt="Github Link" title="Github Link">
-            </a>
         </div>
-      </div>
 
-      <div class="portfolio-piece mix identity">
+      <div style="margin: 0 10px;" class="portfolio-piece mix identity">
         <div class="portfolio-wrapper">
           <img src="assets/img/furnishingamerica.jpg" alt="Furnishing America Website Image" title="Furnishing America Website Image" style="width: 100%;">
             <div class="caption">
               <div class="caption-text">   
                 <div class="text-category">Furnishing America (2009 - 2018) </div>
                 <div class="text-category">(Out of Business)</div>
+                  <div class="text-category">Lifetime - 18.3 Million Page Views</div>
                 <div class="text-category">Lifetime - 2.8 Million Unique Users</div>
-                <div class="text-category">Lifetime - 18.3 Million Page Views</div>
-                <div class="text-category">Lifetime - SEO Rank #1 in Many Local Furniture Categories</div>
-                <div class="text-category">Responsible for: Front End / Backend & SEO</div>
+                <div class="text-category">Lifetime - SEO Rank #1</div>
+                <div class="text-category">Responsible for: front-end, back-end, graphics, concept and seo</div>
               </div>            
             </div>
         </div>
       </div>
-
-        <div class="portfolio-piece mix identity" title="GameSmartz">
-            <div class="portfolio-wrapper">
-                    <img src="assets/img/gamesmartz.png" alt="GameSmartz Website Logo Image" title="GameSmartz Website Logo Image" style="width: 100%;">
-                    <div class="caption">
-                        <div class="caption-text">
-                            <div class="text-category">GameSmartz (Conceptual)</div>
-                            <div class="text-category">Educational Website for Kids (Conceptual)</div>
-                            <div class="text-category">Responsible for Everything: Front End / Back End, Graphics, Concept. (Conceptual)</div>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-
 
       </div>
 <?php //Container End ?>
