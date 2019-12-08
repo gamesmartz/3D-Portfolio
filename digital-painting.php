@@ -19,6 +19,14 @@
   
   <div class="container text-center">
 
+      <?php //Bottom Icons ?>
+      <div style="margin-top:50px;">
+          <div>
+              <img class="skill-sets" src="assets/img/pencil-paper-icon.png" alt="Pencil and Paper">
+              <a href="https://www.adobe.com/products"><img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop"></a>
+          </div>
+      </div>
+
 <?php //Title ?>
     <h2 class="thick-bold-raleway portfolio-titles">Digital Painting</h2>
     <hr class="colored">
@@ -89,16 +97,6 @@
                 </div>
             </div>
         </div>
-
-<?php //Bottom Icons ?>
-    <div style="margin-top:50px;">
-      <div>
-        <a href="https://www.adobe.com/products">
-            <img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop">
-        </a>
-        <img class="skill-sets" src="assets/img/pencil-paper-icon.png" alt="Pencil and Paper">
-      </div>
-    </div>
 
     </div>
     <?php //Container End ?>

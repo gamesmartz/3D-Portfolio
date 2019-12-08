@@ -10,6 +10,19 @@
 
   <div class="container text-center wow fadeIn">
 
+      <?php //Bottom Icons ?>
+      <div style="margin-top:50px;">
+          <div>
+              <a href="https://en.wikipedia.org/wiki/JavaScript"><img class="skill-sets" src="assets/img/javascript-logo.png" alt="Javascript Logo" title="Javascript Logo"></a>
+              <a href="https://en.wikipedia.org/wiki/PHP"><img class="skill-sets" src="assets/img/php-logo.png" alt="PHP Logo" title="PHP Logo"></a>
+              <a href="https://en.wikipedia.org/wiki/MySQL"><img class="skill-sets" src="assets/img/php-mysql.png" alt="Mysql Logo" title="Mysql Logo"></a>
+              <img class="skill-sets" src="assets/img/css-logo.png" alt="Mysql Logo" title="CSS Logo">
+              <img class="skill-sets" src="assets/img/html-logo.png" alt="Mysql Logo" title="HTML Logo">
+              <a href="https://www.adobe.com/products"><img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop Logo" title="Photoshop Logo"></a>
+          </div>
+      </div>
+
+
 <?php //Titles ?>
     <h2 class="thick-bold-raleway portfolio-titles">Front End Dev / Design</h2>
     <hr class="colored">  
@@ -90,15 +103,6 @@
             </div>
         </div>
 
-      <div style="margin-top:50px;">
-        <div>
-            <a href="https://en.wikipedia.org/wiki/JavaScript"><img class="skill-sets" src="assets/img/javascript-logo.png" alt="Javascript Logo" title="Javascript Logo"></a>
-            <a href="https://en.wikipedia.org/wiki/PHP"><img class="skill-sets" src="assets/img/php-logo.png" alt="PHP Logo" title="PHP Logo"></a>
-            <a href="https://en.wikipedia.org/wiki/MySQL"><img class="skill-sets" src="assets/img/php-mysql.png" alt="Mysql Logo" title="Mysql Logo"></a>
-            <a href="https://www.adobe.com/products"><img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop Logo" title="Photoshop Logo"></a>
-        </div>
-
-      </div>
 
       </div>
 <?php //Container End ?>

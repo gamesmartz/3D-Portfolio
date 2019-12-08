@@ -10,10 +10,16 @@
 
   <div class="container text-center">
 
-<?php //Titles ?>
+     <?php //Bottom Icons ?>
+      <div style="margin-top:50px;">
+          <a href="https://www.adobe.com/products"><img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop"></a>
+      </div>
+
+      <?php //Titles ?>
     <h2 class="thick-bold-raleway portfolio-titles">Photoshop Manipulation</h2>
     <hr class="colored">
     <div class="position-relative">
+
 
 <?php //Chevrons Start ?>
     <div class="chevrons-container">
@@ -36,11 +42,6 @@
           </div>
         </div>
       </div>
-
-    <div style="margin-top:50px;">
-        <a href="https://www.adobe.com/products"><img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop"></a>
-        <a href="https://www.autodesk.com/products/maya/overview"><img class="skill-sets" src="assets/img/autodesk-maya.png" alt="Autodesk Maya"></a>
-    </div>
 
     </div>
 <?php //Container End ?>
