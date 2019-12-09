@@ -1,6 +1,6 @@
   <?php include ('modules/head.php'); ?>
 
-  <title>Matt Norkaitis - Technical Artist / Front End Dev - Irvine Ca</title>
+  <title>Matt Norkaitis - Dev / Artist - Irvine Ca</title>
 
 </head>
 
@@ -12,7 +12,7 @@
       <div class="row h-100">
         <div class="col-12 my-auto text-center text-white">
           <div class="header-title">Matt Norkaitis</div>
-          <div class="masthead-subtitle">Technical Artist / Front End Dev</div>
+          <div class="masthead-subtitle">Dev / Artist</div>
         </div>
       </div>
     </div>
@@ -43,7 +43,7 @@
         <div class="col-lg-6 my-auto">
          <h1>Hi, I'm Matt Norkaitis</h1>
           <hr class="colored">
-            <p>I am a Front End Dev / Technical Artist living in Irvine Ca. All the images and content on this site are my own.  My current company is <a style="color: #00A3FF" href="https://gamesmartz.com">Gamesmartz</a>, a learning solution integrating learning with games and media. GameSmartz currently boats of over 2k flashcards top ranking in google image and serp results, with a half-million questions answered.</p>
+            <p>I am a Dev / Artist living in Irvine Ca. All the images and content on this site are my own.  My current company is <a style="color: #00A3FF" href="https://gamesmartz.com">Gamesmartz</a>, a learning solution integrating learning with games and media. GameSmartz currently boats of over 2k flashcards top ranking in google image and serp results, with a half-million questions answered.</p>
             <p>My past technical experience includes 15 years experience as a 3d Modeler in architecture and games, and 8 years experience as a Front End Designer, two years experience as a software dev and two years experience in photoshop painting. Also a single father.</p>
             <p>Thanks for visting my site, much appreciated!</p>
 
