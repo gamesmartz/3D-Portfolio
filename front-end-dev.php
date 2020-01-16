@@ -49,8 +49,8 @@
                     <div class="caption-text">
                         <div class="text-category">GameSmartz.com</div>
                         <div class="text-category">Development 2015-Current</div>
-                        <div class="text-category">Edu solution to integrated learning with games and media</div>
-                        <div class="text-category">Responsible for all aspects, including the concept, front-end and back-end programing, database, graphics, beta-testing, seo and patent</div>
+                        <div class="text-category">An edu teaching platform where users get to play their favorite games, watch videos or surf the web while learning.</div>
+                        <div class="text-category">Responsible for all aspects, concept, front-end, back-end, database, graphics, seo and ip.</div>
                     </div>
                 </div>
                 </a>
@@ -64,10 +64,10 @@
               <div class="caption-text">   
                 <div class="text-category">Furnishing America (2008 - 2018) </div>
                 <div class="text-category">(Out of Business)</div>
+                  <div class="text-category">Lifetime - SEO Rank #1</div>
                   <div class="text-category">Lifetime - 18.3 Million Page Views</div>
                 <div class="text-category">Lifetime - 2.8 Million Unique Users</div>
-                <div class="text-category">Lifetime - SEO Rank #1</div>
-                <div class="text-category">Responsible for: front-end, back-end, graphics, concept and seo</div>
+                <div class="text-category">Responsible for: concept, front-end, back-end, graphics and seo</div>
               </div>            
             </div>
         </div>
