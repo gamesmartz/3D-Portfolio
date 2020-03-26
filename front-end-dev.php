@@ -47,10 +47,11 @@
                 <img src="assets/img/gamesmartz.png" alt="GameSmartz Website Logo Image" title="GameSmartz Website Logo Image" style="width: 100%;">
                 <div class="caption">
                     <div class="caption-text">
-                        <div class="text-category">GameSmartz.com</div>
-                        <div class="text-category">Development 2015-Current</div>
-                        <div class="text-category">An edu teaching platform where users get to play their favorite games, watch videos or surf the web while learning.</div>
-                        <div class="text-category">Responsible for all aspects, concept, front-end, back-end, database, graphics, seo and ip.</div>
+                        <div class="text-category">Game Smartz</div>
+                        <div class="text-category">3,000 Flashcards top Ranking in Google SERP</div>
+                        <div class="text-category">A half-million questions answered</div>
+                        <div class="text-category">An learning platform where students study for class while playing top games and media.</div>
+                        <div class="text-category">Responsible for: front-end, back-end, database, graphics, seo and ip.</div>
                     </div>
                 </div>
                 </a>
@@ -62,8 +63,7 @@
           <img src="assets/img/furnishingamerica.jpg" alt="Furnishing America Website Image" title="Furnishing America Website Image" style="width: 100%;">
             <div class="caption">
               <div class="caption-text">   
-                <div class="text-category">Furnishing America (2008 - 2018) </div>
-                <div class="text-category">(Out of Business)</div>
+                <div class="text-category">Furnishing America</div>
                   <div class="text-category">Lifetime - SEO Rank #1</div>
                   <div class="text-category">Lifetime - 18.3 Million Page Views</div>
                 <div class="text-category">Lifetime - 2.8 Million Unique Users</div>
