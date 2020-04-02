@@ -44,8 +44,12 @@
          <h1>Hi, I'm Matt Norkaitis</h1>
           <hr class="colored">
             <p>I am an artist and developer living in Irvine Ca, all the images and content on this site are my own.  My current company is <a style="color: #00A3FF" href="https://gamesmartz.com">Game Smartz</a>, a teaching platform where students can study for school while playing top games and media. GameSmartz currently boats of over <a style="color: #00A3FF" href="https://gamesmartz.com/flashcard-thumbs?grade=all&subject=science">3,000 flashcards</a> top ranking in the google image and serp results with a half-million questions answered.</p>
-            <p>My past technical experience includes <a style="color: #00A3FF" href="3d-artist">13 years experience in 3d modeling / texturing for architecture and games</a>, <a style="color: #00A3FF" href="front-end-dev">8 years experience as a Front End Designer, two years experience as a software Developer</a>, <a style="color: #00A3FF" href="digital-painting">5 years experience as a photoshop painter</a> and 15 years experience as a single father.</p>
-            <p>Thanks for visting my site, much appreciated!</p>
+            <p style="margin-bottom: 0.5rem;">My technical experience includes
+            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="3d-artist">13 years, 3d Modeling and Texturing</a></p>
+            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="front-end-dev">8 years, Front End Design and Software Development</a></p>
+            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="front-end-dev">8 years, IT and Server config</a></p>
+            <p style="margin-bottom: 0.5rem;">15 years experience as a single father.</p>
+
 
         </div>
       </div>
