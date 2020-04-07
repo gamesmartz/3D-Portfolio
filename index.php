@@ -48,7 +48,7 @@
             <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="3d-artist">3d Modeling and Texturing - 13 Years</a></p>
             <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="front-end-dev">Front End Design and Software Development - 8 Years</a></p>
             <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="front-end-dev">IT and Server config - 8 Years</a></p>
-            <p style="margin-bottom: 0.5rem;">15 years experience as a single father.</p>
+            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="s-parent">Single Parent - 16 Years</a></p>
 
 
         </div>
