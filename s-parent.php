@@ -17,6 +17,11 @@
 
       <?php //Titles ?>
 
+      <?php //Title ?>
+      <div class="thick-bold-raleway portfolio-titles" style="font-size: 1.7rem; ">"Start children off on the way they should go, and even when they are old they will not turn from it."</div>
+      <div class="thick-bold-raleway portfolio-titles" style="font-size: 1.7rem; margin-top: 20px; ">2020 - Ranked Competitive Ark Survival Player and Guild Leader</div>
+      <hr class="colored">
+
     <div class="position-relative">
 
 
