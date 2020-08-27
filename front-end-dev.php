@@ -49,12 +49,10 @@
                 <div class="caption">
                     <div class="caption-text">
                         <div class="text-category">Game Smartz</div>
-                        <div class="text-category">3,000 Flashcards top Ranking in Google SERP</div>
                         <div class="text-category">A half-million questions answered</div>
-                        <div class="text-category">An learning platform where students study for class while playing top games and media.</div>
-                        <div class="text-category">Responsible for: front-end, back-end, database, graphics, seo and ip.</div>
-                        <a href="https://gamesmartz.com/flashcard-thumbs?grade=all&subject=science"><div class="text-category">2000 Science Flashcards</div></a>
-                        <a href="https://gamesmartz.com/flashcard-thumbs?grade=10&subject=history"><div class="text-category">1000 History Flashcards</div></a>
+                        <div class="text-category">Over 30 million flashcards viewed</div>
+                        <div class="text-category">An learning platform where students study for class while playing top media.</div>
+                        <div class="text-category">Responsible for: everything.</div>
                     </div>
                 </div>
 
