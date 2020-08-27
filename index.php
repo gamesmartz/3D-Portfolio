@@ -12,7 +12,7 @@
       <div class="row h-100">
         <div class="col-12 my-auto text-center text-white">
           <div class="header-title">Matt Norkaitis</div>
-          <div style="font-size: 1.1em;" class="masthead-subtitle">Artist & Developer</div>
+          <div style="font-size: 1.1em;" class="masthead-subtitle">Artist and Developer</div>
         </div>
       </div>
     </div>
@@ -43,11 +43,11 @@
         <div class="col-lg-6 my-auto">
          <h1>Hi, I'm Matt Norkaitis</h1>
           <hr class="colored">
-            <p>I am an artist and developer living in Irvine Ca, all the images and content on this site are my own.  My current company is <a style="color: #00A3FF" href="https://gamesmartz.com">Game Smartz</a>, a teaching platform where students can study for school while playing top games and media. GameSmartz currently boats of over <a style="color: #00A3FF" href="https://gamesmartz.com/flashcard-thumbs?grade=all&subject=science">3,000 flashcards</a> top ranking in the google image and serp results with a half-million questions answered.</p>
-            <p style="margin-bottom: 0.5rem;">My technical experience includes
+            <p>I am an artist and developer living in Irvine Ca, all the images and content on this site are my own. Thanks for visiting!  My current company is <a style="color: #00A3FF" href="https://gamesmartz.com">Game Smartz</a>, a teaching platform where students can study for school while playing top media.</p>
+            <p style="margin-bottom: 0.5rem;">Experience:
             <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="3d-artist">3d Modeling and Texturing - 13 Years</a></p>
             <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="front-end-dev">Front End Design and Software Development - 8 Years</a></p>
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="front-end-dev">IT and Server config - 8 Years</a></p>
+            <p style="margin-bottom: 0.5rem;">IT and Server config - 8 Years</p>
             <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="s-parent">Single Parent - 16 Years</a></p>
 
 
@@ -110,16 +110,12 @@
         
       <div>
           <h2>Contact Me</h2>
-          <p>Thanks for being here! -Matt</p>
       </div>
 
       <div class="justify-content-md-center">
           
-      <a href="https://www.linkedin.com/in/matthew-norkaitis"><div class="contact-links"><img src="assets/img/linkedin-logo.png" class="img-fluid" alt="LinkedIn Logo"></div></a>
       <a href="https://github.com/gamesmartz"><div class="contact-links"><img src="assets/img/github-logo.png" class="img-fluid" alt="GitHub Logo"></div></a>
-      <a href="http://awnold.cgsociety.org/"><div class="contact-links" style="margin-top: 30px;"><img src="assets/img/cg-society.png" class="img-fluid" alt="CG Society Logo"></div></a>
-      <div class="contact-links" style="margin-top: 30px;"><img src="https://www.codewars.com/users/gamesmartz/badges/large" class="img-fluid" alt="CG Society Logo"></div>
-
+      <a href="https://www.linkedin.com/in/matthew-norkaitis"><div class="contact-links"><img src="assets/img/linkedin-logo.png" class="img-fluid" alt="LinkedIn Logo"></div></a>
 
     </div>
     </section>
