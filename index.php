@@ -43,7 +43,7 @@
         <div class="col-lg-6 my-auto">
          <h1>Hi, I'm Matt Norkaitis</h1>
           <hr class="colored">
-            <p>I am an artist and developer living in Irvine Ca, all the images and content on this site are my own. Thanks for visiting!  My current company is <a style="color: #00A3FF" href="https://gamesmartz.com">Game Smartz</a>, a teaching platform where students can study for school while playing top media.</p>
+            <p>I am an artist and developer living in Irvine Ca, all the images and content on this site are my own. Thanks for visiting!  My current company is <a style="color: #00A3FF" href="https://gamesmartz.com">Game Smartz</a>, a teaching platform where students can study for class.</p>
             <p style="margin-bottom: 0.5rem;">Experience:
             <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="3d-artist">3d Modeling and Texturing - 13 Years</a></p>
             <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="front-end-dev">Front End Design and Software Development - 8 Years</a></p>
