@@ -51,7 +51,7 @@
                         <div class="text-category">Game Smartz</div>
                         <div class="text-category">A half-million questions answered</div>
                         <div class="text-category">Over 30 million flashcards viewed</div>
-                        <div class="text-category">An learning platform where students study for class while playing top media.</div>
+                        <div class="text-category">A learning platform where students can study for class.</div>
                         <div class="text-category">Responsible for: everything.</div>
                     </div>
                 </div>
