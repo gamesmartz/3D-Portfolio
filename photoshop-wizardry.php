@@ -16,7 +16,7 @@
       </div>
 
       <?php //Titles ?>
-    <h2 class="thick-bold-raleway portfolio-titles">Photoshop Manipulation</h2>
+    <h2 class="thick-bold-raleway portfolio-titles">Product Concept</h2>
     <hr class="colored">
     <div class="position-relative">
 
@@ -36,7 +36,7 @@
           <a href="https://youtu.be/rjCspcflgOU"><img src="assets/img/photo-manipulation-photoshop.jpg" alt="" style="width: 100%;"></a>
           <div class="caption">
             <div class="caption-text">
-              <span class="text-category">Photoshop Manipulation</span>
+              <span class="text-category">Product Concept</span>
             </div>
             <div class="caption-bg"></div>
           </div>

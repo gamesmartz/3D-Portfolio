@@ -12,7 +12,6 @@
       <div class="row h-100">
         <div class="col-12 my-auto text-center text-white">
           <div class="header-title">Matt Norkaitis</div>
-          <div style="font-size: 1.1em;" class="masthead-subtitle">Artist and Developer</div>
         </div>
       </div>
     </div>
@@ -43,12 +42,13 @@
         <div class="col-lg-6 my-auto">
          <h1>Hi, I'm Matt Norkaitis</h1>
           <hr class="colored">
-            <p>I am an artist and developer living in Irvine Ca, all the images and content on this site are my own. Thanks for visiting!  My current company is <a style="color: #00A3FF" href="https://gamesmartz.com">Game Smartz</a>, a teaching platform where students can study for class.</p>
-            <p style="margin-bottom: 0.5rem;">Experience:
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="3d-artist">3d Modeling and Texturing - 13 Years</a></p>
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="front-end-dev">Front End Design and Software Development - 8 Years</a></p>
+            <p>I am an artist, developer, single parent and CEO of game smartz, where you can study for class while playing top video games.</p>
+            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="https://gamesmartz.com/">CEO Game Smartz - Get Better Grades While Playing Your Favorite Games</a></p>
+            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="3d-artist">3d Modeling - 20 Years</a></p>
+            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="front-end-dev">Front End Design and Software Development - 10 Years</a></p>
+            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="digital-painting">Digital Painting - 10 Years</a></p>
             <p style="margin-bottom: 0.5rem;">IT and Server config - 8 Years</p>
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="s-parent">Single Parent - 16 Years</a></p>
+            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="s-parent">Single Parent - 17 Years</a></p>
 
 
         </div>
