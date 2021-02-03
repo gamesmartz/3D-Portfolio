@@ -1,6 +1,6 @@
   <?php include ('modules/head.php'); ?>
 
-  <title>Matt Norkaitis - Dev & Artist - Irvine Ca</title>
+  <title>Matthew Norkaitis - Portfolio</title>
 
 </head>
 
