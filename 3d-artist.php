@@ -54,7 +54,7 @@
         <a href="https://youtu.be/3G9nQllk4gI"><img src="assets/img/moreno-with-map-data.jpg" alt="Rendering from Floorplans - Moreno Valley Ca." title="Rendering from Floorplans - Moreno Valley Ca." style="width: 100%;"></a>
         <div class="caption">
           <div class="caption-text">
-            <span class="text-category">Rendering from Floorplans / Google Map Data</span>
+            <span class="text-category">Rendering from Google Maps Data</span>
           </div>         
         </div>
       </div>
@@ -71,27 +71,9 @@
         </div>
       </div>
 
-      <div class="portfolio-piece mix identity" title="Architectural Stylized">
-        <div class="portfolio-wrapper">
-          <a href="https://youtu.be/adagX1entG0"><img src="assets/img/arrowhead.jpg" alt="Rendering from Floorplans - ArrowHead Ca." title="Rendering from Floorplans - ArrowHead Ca." style="width: 100%;"></a>
-          <div class="caption">
-            <div class="caption-text">
-              <span class="text-category">Rendering from Floorplans</span>
-            </div>           
-          </div>
-        </div>
-      </div>
 
-        <div class="portfolio-piece mix identity" title="Maya / Zbrush / Mudbox - Low Poly">
-            <div class="portfolio-wrapper">
-                <a href="https://youtu.be/JLvia4UXeHw"><img src="assets/img/maya-mudbox.jpg" alt="Humanoid Modeling with Maya / Mudbox" title="Humanoid Modeling with Maya / Mudbox" style="width: 100%;"></a>
-                <div class="caption">
-                    <div class="caption-text">
-                        <span class="text-category">Humanoid Modeling</span>
-                    </div>
-                </div>
-            </div>
-        </div>
+
+
 
     </div>
 <?php //Container End ?>

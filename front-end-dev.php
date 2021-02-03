@@ -24,7 +24,7 @@
 
 
 <?php //Titles ?>
-    <h2 class="thick-bold-raleway portfolio-titles">Front End Dev / Design</h2>
+    <h2 class="thick-bold-raleway portfolio-titles">Front End Dev / Back End Dev </h2>
     <hr class="colored">  
 
     <div class="position-relative">
@@ -49,10 +49,8 @@
                 <div class="caption">
                     <div class="caption-text">
                         <div class="text-category">Game Smartz</div>
-                        <div class="text-category">A half-million questions answered</div>
                         <div class="text-category">Over 30 million flashcards viewed</div>
-                        <div class="text-category">A learning platform where students can study for class.</div>
-                        <div class="text-category">Responsible for: everything.</div>
+                        <div class="text-category">A learning platform where students can study for class while playing top games.</div>
                     </div>
                 </div>
 
@@ -68,7 +66,6 @@
                   <div class="text-category">Lifetime - SEO Rank #1</div>
                   <div class="text-category">Lifetime - 18.3 Million Page Views</div>
                 <div class="text-category">Lifetime - 2.8 Million Unique Users</div>
-                <div class="text-category">Responsible for: concept, front-end, back-end, graphics and seo</div>
               </div>            
             </div>
         </div>
