@@ -116,6 +116,7 @@
           
       <a href="https://github.com/gamesmartz"><div class="contact-links"><img src="assets/img/github-logo.png" class="img-fluid" alt="GitHub Logo"></div></a>
       <a href="https://www.linkedin.com/in/matthew-norkaitis"><div class="contact-links"><img src="assets/img/linkedin-logo.png" class="img-fluid" alt="LinkedIn Logo"></div></a>
+      <a href="https://www.instagram.com/mattnorkaitis/"><div class="contact-links"><img src="assets/img/instagram-logo.png" class="img-fluid" alt="Instagram Logo"></div></a>
 
     </div>
     </section>
