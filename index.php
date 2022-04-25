@@ -42,13 +42,12 @@
         <div class="col-lg-6 my-auto">
          <h1>Hi, I'm Matt Norkaitis</h1>
           <hr class="colored">
-            <p>I am an artist, developer, single parent and CEO of game smartz, where you can study for class while playing top video games.</p>
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="https://gamesmartz.com/">CEO Game Smartz - Get Better Grades While Playing Your Favorite Games</a></p>
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="3d-artist">3d Modeling - 20 Years</a></p>
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="front-end-dev">Front End Design and Software Development - 10 Years</a></p>
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="digital-painting">Digital Painting - 10 Years</a></p>
-            <p style="margin-bottom: 0.5rem;">IT and Server config - 8 Years</p>
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="s-parent">Single Parent - 17 Years</a></p>
+            <p>I am an artist, developer, single parent and CEO of Game Smartz.</p>
+            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="https://gamesmartz.com/">CEO Game Smartz</a></p>
+            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="3d-artist">Architecture</a></p>
+            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="front-end-dev">Development</a></p>
+            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="digital-painting">Digital Painting</a></p>
+            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="s-parent">Single Parent</a></p>
 
 
         </div>
@@ -78,7 +77,7 @@
             <div class="px-4 pb-4 pb-lg-0 h-100">
               <img src="assets/img/3d-shape.png" alt="3d Shape">
               <h3>3d Artist</h3>
-              <p class="mb-0">3d Modeling for Architecture and Entertainment</p>
+              <p class="mb-0">Architecture</p>
             </div>
           </a>
         </div>
@@ -86,7 +85,7 @@
           <a href="front-end-dev">
             <div class="px-4 pb-4 pb-lg-0 h-100">
               <img src="assets/img/closing-braces.png" alt="Closing Braces">
-              <h3>Front-End Design / Development</h3>
+              <h3>Development</h3>
               <p class="mb-0">HTML / CSS / Javascript / PHP / MySQL</p>
             </div>
           </a>

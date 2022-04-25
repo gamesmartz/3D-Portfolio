@@ -23,7 +23,7 @@
       <div style="margin-top:50px;">
           <div>
               <img class="skill-sets" src="assets/img/pencil-paper-icon.png" alt="Pencil and Paper">
-              <a href="https://www.adobe.com/products"><img class="skill-sets" src="assets/img/photoshop-icon.png" alt="Photoshop"></a>
+
           </div>
       </div>
 
@@ -33,17 +33,7 @@
 
     <div class="position-relative">
 
-<?php //Chevrons ?>
-    <div class="chevrons-container">
 
-    <a href="photoshop-wizardry">
-        <i class="chevron-left large material-icons" style="font-size: 100px">chevron_left</i>
-    </a>
-    <a href="front-end-dev">
-    <i class="chevron-right large material-icons" style="font-size: 100px">chevron_right</i>
-    </a>
-
-    </div>
 
     <div class="portfolio-piece mix identity">
       <div class="portfolio-wrapper">
