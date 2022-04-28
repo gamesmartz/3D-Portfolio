@@ -22,9 +22,9 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <script src="../assets/js/jquery-3.3.1.min.js"> </script>
-  <script src="../assets/js/bootstrap.min.js"></script>
-  <script src="../assets/js/index.js"></script>
+  <script src="assets/js/jquery-3.3.1.min.js"> </script>
+  <script src="assets/js/bootstrap.min.js"></script>
+
 
 <?php //Style Sheets ?>
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">

@@ -2,7 +2,7 @@
 
   <title>Digital Painting - Photoshop - Matt Norkaitis</title>
 
-<script src="./assets/js/digital-painting.js"></script>
+<script src="assets/js/digital-painting.js"></script>
 
 </head>
 

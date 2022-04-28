@@ -19,7 +19,7 @@ function initiateApp() {
     }
 
     $(".imageModal").click(function () {
-        console.log('test');
+        //console.log('test');
         $(".imageModal").removeClass("showModal");
 
     });
