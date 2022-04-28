@@ -27,10 +27,9 @@
 
   </header>
 
-  <div class="page-section" id="about">
+  <div class="page-section" id="about" style="padding-bottom: 50px;">
     <div class="container container-me text-center">
       <div class="row">
-
 
               <div class="col-lg-6">
                   <a href="digital-painting">
@@ -38,18 +37,17 @@
                   </a>
               </div>
 
-
         <div class="col-lg-6 my-auto">
          <h1>Hi, I'm Matt Norkaitis</h1>
           <hr class="colored">
             <p>I am an artist, developer, single parent and CEO of Game Smartz.</p>
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="https://gamesmartz.com/">CEO Game Smartz</a></p>
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="digital-painting">Digital Painting</a></p>
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="textures">Textures</a></p>
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="3d-artist">Architecture</a></p>
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="front-end-dev">Development</a></p>
-            <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="s-parent">Single Parent</a></p>
-
+            <div style="font-size: 1.1em;">
+                <p style="margin-bottom: 0.5rem; margin-top: 30px;"><a style="color: #00A3FF;" href="https://gamesmartz.com/">CEO Game Smartz</a></p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="digital-painting">Digital Painting</a></p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="textures">Textures</a></p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="front-end-dev">Development</a></p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="s-parent">Single Parent</a></p>
+            </div>
 
         </div>
       </div>
@@ -60,46 +58,34 @@
 
   <section  class="page-section bg-light">
     <div id="portfolio" class="container-fluid">
-      <div class="wow fadeIn text-center">
-        <h1 class="thick-bold-raleway">Portfolios</h1>
-      </div>
-      <div class="row text-center">
-        <div class="col-lg-3 col-md-6">
+      <div class="row" style="display: flex; justify-content: space-around; align-items: center;">
+        <div class="">
           <a href="digital-painting">
-            <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100">
+            <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
               <img src="assets/img/artist-pallet.png" alt="Artist Pallet">
               <h3>Digital Painting</h3>
-              <p class="mb-0">Digital Painting</p>
             </div>
           </a>
         </div>
-        <div class="col-lg-3 col-md-6">
+        <div class="">
           <a href="3d-artist">
-            <div class="px-4 pb-4 pb-lg-0 h-100">
+              <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
               <img src="assets/img/3d-shape.png" alt="3d Shape">
-              <h3>3d Artist</h3>
-              <p class="mb-0">Architecture</p>
+              <h3>Texture</h3>
+
             </div>
           </a>
         </div>
-        <div class="col-lg-3 col-md-6">
+        <div class="">
           <a href="front-end-dev">
-            <div class="px-4 pb-4 pb-lg-0 h-100">
+              <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
               <img src="assets/img/closing-braces.png" alt="Closing Braces">
               <h3>Development</h3>
-              <p class="mb-0">HTML / CSS / Javascript / PHP / MySQL</p>
+
             </div>
           </a>
         </div>
-        <div class="col-lg-3 col-md-6">
-          <a href="photoshop-wizardry">
-            <div class="wow fadeIn px-4 h-100">
-              <img src="assets/img/photo-add-subtract.png" alt="Photoshop Logo">
-              <h3>Photoshop</h3>
-              <p class="mb-0">Image Manipulation</p>
-            </div>
-          </a>
-        </div>
+
       </div>
     </div>
   </section>
