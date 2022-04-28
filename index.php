@@ -68,7 +68,7 @@
           </a>
         </div>
         <div class="">
-          <a href="3d-artist">
+          <a href="textures">
               <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
               <img src="assets/img/3d-shape.png" alt="3d Shape">
               <h3>Texture</h3>
