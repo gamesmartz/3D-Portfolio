@@ -57,6 +57,28 @@
             </div>
         </div>
 
+        <div class="portfolio-piece mix identity">
+            <div class="portfolio-wrapper">
+                <img src="assets/img/digital-painting/ecosystems-pink-blue-600.jpg" alt="Ecosystems yellow turquoise texture" title="Ecosystems yellow turquoise texture" class="digital-painting-images" id="ecosystems-pink-blue-1300">
+                <div class="caption">
+                    <div class="caption-text">
+                        <span class="text-category">Ecosystems, Yellow Turquoise</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="portfolio-piece mix identity">
+            <div class="portfolio-wrapper">
+                <img src="assets/img/digital-painting/ecosystems-pink-blue-3d-600.jpg" alt="Ecosystems yellow turquoise texture" title="Ecosystems yellow turquoise texture" class="digital-painting-images" id="ecosystems-pink-blue-3d-1300">
+                <div class="caption">
+                    <div class="caption-text">
+                        <span class="text-category">Ecosystems, Yellow Turquoise</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     <?php //Container End ?>
   </div>
 </section>
