@@ -101,6 +101,28 @@
             </div>
         </div>
 
+        <div class="portfolio-piece mix identity">
+            <div class="portfolio-wrapper">
+                <img src="assets/img/digital-painting/ecosystems-red-black-600.jpg" alt="Ecosystems, Red Black" title="Ecosystems, Red Black" class="digital-painting-images" id="ecosystems-red-black-1300">
+                <div class="caption">
+                    <div class="caption-text">
+                        <span class="text-category">Ecosystems, Black Red</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="portfolio-piece mix identity">
+            <div class="portfolio-wrapper">
+                <img src="assets/img/digital-painting/ecosystems-red-black-3d-600.jpg" alt="Ecosystems, Red Black" title="Ecosystems, Red Black" class="digital-painting-images" id="ecosystems-red-black-3d-1300">
+                <div class="caption">
+                    <div class="caption-text">
+                        <span class="text-category">Ecosystems, Black Red</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     <?php //Container End ?>
   </div>
 </section>
