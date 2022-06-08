@@ -76,7 +76,7 @@
           </a>
         </div>
         <div class="">
-          <a href="front-end-dev">
+          <a href="https://gamesmartz.com/">
               <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
               <img src="assets/img/closing-braces.png" alt="Closing Braces">
               <h3>Development</h3>
