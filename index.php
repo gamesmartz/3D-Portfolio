@@ -45,7 +45,6 @@
                 <p style="margin-bottom: 0.5rem; margin-top: 30px;"><a style="color: #00A3FF;" href="https://gamesmartz.com/">CEO Game Smartz</a></p>
                 <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="digital-painting">Digital Painting</a></p>
                 <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="textures">Textures</a></p>
-                <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="front-end-dev">Development</a></p>
                 <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="s-parent">Single Parent</a></p>
             </div>
 
