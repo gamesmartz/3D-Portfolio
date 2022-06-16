@@ -33,7 +33,7 @@
 
     <div class="position-relative">
 
-
+    <div style="font-size: 1.1em; margin-bottom: 10px;">These textures are completely flat, shown on a single plane.</div>
 
     <div class="portfolio-piece mix identity">
       <div class="portfolio-wrapper">
