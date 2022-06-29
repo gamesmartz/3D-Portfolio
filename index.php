@@ -31,22 +31,21 @@
     <div class="container container-me text-center">
       <div class="row">
 
-              <div class="col-lg-6">
-                  <a href="digital-painting">
-                      <img src="assets/img/me-painting-golden-horizon.jpg" class="img-fluid rounded my-5" alt="painting-golden-horizon">
-                  </a>
-              </div>
-
-        <div class="col-lg-6 my-auto">
+        <div class="col-lg-12 my-auto">
          <h1>Hi, I'm Matt Norkaitis</h1>
           <hr class="colored">
-            <p>I am an artist, developer, single parent and CEO of Game Smartz.</p>
+            <p style="font-size: 1.2em;">I am a trained artist, developer, and CEO of Game Smartz.</p>
             <div style="font-size: 1.1em;">
                 <p style="margin-bottom: 0.5rem; margin-top: 30px;"><a style="color: #00A3FF;" href="https://gamesmartz.com/">CEO Game Smartz</a></p>
                 <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="digital-painting">Digital Painting</a></p>
                 <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="textures">Digital Textures</a></p>
                 <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="https://github.com/gamesmartz">Software Dev & Sprints</a></p>
                 <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="s-parent">Single Parent</a></p>
+                <p style="margin-bottom: 0.5rem;margin-top: 25px;">Education:</p>
+                <p style="margin-bottom: 0.5rem;">University of Southern California - BA, Information Technology.</p>
+                <p style="margin-bottom: 0.5rem;">Academy of Art University - MFA, Modeling, Virtual Environments and Simulation.</p>
+                <p style="margin-bottom: 0.5rem;">Kazone Art - Activities: Studied under Charles Lee, - Blizzard / Riot.</p>
+                <p style="margin-bottom: 0.5rem;">Learning Fuze - Computer Programming/Programmer, General Programming.</p>
             </div>
 
         </div>
@@ -81,7 +80,6 @@
               <div class="wow fadeIn px-4 pb-4 pb-lg-0 h-100" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
               <img src="assets/img/closing-braces.png" alt="Closing Braces">
               <h3>Development</h3>
-
             </div>
           </a>
         </div>
