@@ -36,18 +36,23 @@
           <hr class="colored">
             <p style="font-size: 1.2em;">I am a trained artist, developer, and CEO of Game Smartz.</p>
             <div style="font-size: 1.1em;">
-                <p style="margin-bottom: 0.5rem; margin-top: 30px;"><a style="color: #00A3FF;" href="https://gamesmartz.com/">CEO Game Smartz</a></p>
-                <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="digital-painting">Digital Painting</a></p>
-                <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="textures">Digital Textures</a></p>
-                <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="https://github.com/gamesmartz">Software Dev & Sprints</a></p>
-                <p style="margin-bottom: 0.5rem;"><a style="color: #00A3FF;" href="s-parent">Single Parent</a></p>
-                <p style="margin-bottom: 0.5rem;margin-top: 25px;">Education:</p>
-                <p style="margin-bottom: 0.5rem;">University of Southern California - BA, Information Technology.</p>
-                <p style="margin-bottom: 0.5rem;">Academy of Art University - MFA, Modeling, Virtual Environments and Simulation.</p>
-                <p style="margin-bottom: 0.5rem;">Kazone Art - Activities: Studied under Charles Lee, - Blizzard / Riot.</p>
-                <p style="margin-bottom: 0.5rem;">Learning Fuze - Computer Programming/Programmer, General Programming.</p>
-            </div>
 
+                <p style="margin-bottom: 0.5rem; margin-top: 30px;"><a style="color: #0071b1;" href="https://gamesmartz.com/">CEO Game Smartz - (Current Stage: A Round)</a></p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="digital-painting">Digital Painting</a></p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="textures">Digital Textures</a></p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="https://github.com/gamesmartz">Software Dev & Sprints</a></p>
+                <p style="margin-bottom: 0.5rem;margin-top: 25px;">Education:</p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="https://www.usc.edu/">University of Southern California - BA, Information Technology.</a></p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="https://www.academyart.edu/">Academy of Art University - MFA, Modeling, Virtual Environments and Simulation.</a></p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="https://www.kazoneart.com/">Kazone Art - Activities: Studied under Charles Lee, - Blizzard / Riot.</a></p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="https://learningfuze.com/">Learning Fuze - Computer Programming/Programmer, General Programming.</a></p>
+                <p style="margin-bottom: 0.5rem;margin-top: 25px;">More:</p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="s-parent">Single Parent.</a></p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="https://patents.google.com/patent/US10971026B1/en?assignee=matthew+norkaitis">Awarded US Patent: Method for Integrating Educational Learning into Entertainment Media.</a></p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="radience-wow-twitch">Gaming: A Top Healer in Esfand's (Twitch) Raid in Wow Classic. - Radience </a></p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="https://www.nsf.gov/">National Science Foundation: Learning and Cognition Technologies Grant Consideration.</a></p>
+
+            </div>
         </div>
       </div>
     </div>
