@@ -18,7 +18,7 @@
       <?php //Titles ?>
 
     <div class="position-relative">
-        <h2 class="thick-bold-raleway portfolio-titles">Naxx Raid</h2>
+        <h2 class="thick-bold-raleway portfolio-titles">Naxx</h2>
         <hr class="colored">
 
 
