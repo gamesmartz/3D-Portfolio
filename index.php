@@ -49,8 +49,8 @@
                 <p style="margin-bottom: 0.5rem;margin-top: 25px;">More:</p>
                 <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="s-parent">Single Parent.</a></p>
                 <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="https://patents.google.com/patent/US10971026B1/en?assignee=matthew+norkaitis">Awarded US Patent: Method for Integrating Educational Learning into Entertainment Media.</a></p>
-                <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="radience-wow-twitch">Gaming: A Top Healer in Esfand's (Twitch) Raid in Wow Classic. - Radience </a></p>
                 <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="https://www.nsf.gov/">National Science Foundation: Learning and Cognition Technologies Grant Consideration.</a></p>
+                <p style="margin-bottom: 0.5rem;"><a style="color: #0071b1;" href="radience-wow-twitch">Gaming: A Top Healer in Esfand's (Twitch) Raid in Wow Classic. - Radience </a></p>
 
             </div>
         </div>
