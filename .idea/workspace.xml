@@ -2,83 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3715c613-d0d8-4c83-9813-941cce58e420" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/radience-wow-twitch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-parent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3d-artist.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/svg-sprites/fa-brands.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/svg-sprites/fa-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/svg-sprites/fa-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/3d-massing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/architectural-floorplans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/archive/project10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/img-archive/project10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/archive/project2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/img-archive/project2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/archive/project3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/img-archive/project3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/archive/project4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/img-archive/project4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/archive/project5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/img-archive/project5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/archive/project6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/img-archive/project6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/archive/project7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/img-archive/project7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/archive/project8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/img-archive/project8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/archive/project9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/img-archive/project9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/arrowhead.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/autodesk-maya.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/autodesk-mudbox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/caribbean-connect-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/carmel-senior-living.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/cg-society.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/css-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/digital-painting/moss-and-starlight-1300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/img-archive/moss-and-starlight-1300.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/digital-painting/moss-and-starlight-600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/img-archive/moss-and-starlight-600.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/digital-painting/psd/digital-paintings-1300.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/digital-painting/psd/digital-paintings-600.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/furnishingamerica.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gamesmartz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/github-skills.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gitl-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/gs-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/html-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/javascript-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/maya-mudbox.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/memory-match.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/moreno-with-map-data.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/photo-manipulation-photoshop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/photoshop-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/php-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/php-mysql.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/psd/concepts/2018-01-24_16-21-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/psd/concepts/2018-01-24_16-21-28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/psd/concepts/2018-01-24_16-21-40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/psd/concepts/2018-01-24_16-21-53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/psd/concepts/2018-01-24_16-22-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/psd/concepts/2018-01-24_16-23-56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/psd/concepts/2018-01-24_16-25-25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/psd/concepts/2018-01-24_16-25-48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/psd/concepts/2018-01-24_16-26-51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/digital-painting.php" beforeDir="false" afterPath="$PROJECT_DIR$/digital-painting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end-dev.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/modules/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/modules/head.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/navbar-portfolios.php" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/modules/navbar-portfolios.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/modules/navbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photoshop-wizardry.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/psd/concepts/2018-01-24_16-21-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/psd/concepts/2018-01-24_16-21-28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/psd/concepts/2018-01-24_16-21-40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/psd/concepts/2018-01-24_16-21-53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/psd/concepts/2018-01-24_16-22-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/psd/concepts/2018-01-24_16-23-56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/psd/concepts/2018-01-24_16-25-25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/psd/concepts/2018-01-24_16-25-48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/psd/concepts/2018-01-24_16-26-51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/psd/concepts/icons.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/psd/projects-template.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/radience-wow-twitch.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/s-parent.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/textures.php" beforeDir="false" afterPath="$PROJECT_DIR$/textures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textures.html" beforeDir="false" afterPath="$PROJECT_DIR$/textures.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +23,7 @@
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="28e25Sc04sOMlRmLKpNl09CAHxH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -137,7 +64,9 @@
       <workItem from="1655421446380" duration="688000" />
       <workItem from="1656440561092" duration="13431000" />
       <workItem from="1656645339957" duration="1416000" />
-      <workItem from="1656702355833" duration="4210000" />
+      <workItem from="1656702355833" duration="5056000" />
+      <workItem from="1656709717050" duration="560000" />
+      <workItem from="1656878516477" duration="2483000" />
     </task>
     <servers />
   </component>
