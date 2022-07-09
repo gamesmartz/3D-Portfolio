@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3715c613-d0d8-4c83-9813-941cce58e420" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textures.html" beforeDir="false" afterPath="$PROJECT_DIR$/textures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/radience-wow-twitch.html" beforeDir="false" afterPath="$PROJECT_DIR$/radience-wow-twitch.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,8 @@
       <workItem from="1656983252800" duration="1593000" />
       <workItem from="1657125189391" duration="1340000" />
       <workItem from="1657228279757" duration="8000" />
-      <workItem from="1657234715859" duration="816000" />
+      <workItem from="1657234715859" duration="941000" />
+      <workItem from="1657407777664" duration="758000" />
     </task>
     <servers />
   </component>
