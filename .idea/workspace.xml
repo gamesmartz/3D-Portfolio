@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3715c613-d0d8-4c83-9813-941cce58e420" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/digital-painting/gs-coin-white-gold-front-close.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/digital-painting/gs-coin-white-gold-front-wire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/digital-painting/gs-coin-white-gold-front.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/digital-painting/gs-coin-white-gold-side-wire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/digital-painting/gs-coin-white-gold-side.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/digital-painting/gs-coin-white-gold-texture.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textures.html" beforeDir="false" afterPath="$PROJECT_DIR$/textures.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +109,10 @@
       <workItem from="1679517587433" duration="4000" />
       <workItem from="1680112976804" duration="2167000" />
       <workItem from="1680136764767" duration="3000" />
+      <workItem from="1680229692815" duration="113000" />
+      <workItem from="1680633284387" duration="255000" />
+      <workItem from="1680636675893" duration="676000" />
+      <workItem from="1680637427468" duration="116000" />
     </task>
     <servers />
   </component>
