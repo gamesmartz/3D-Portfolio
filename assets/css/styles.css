@@ -292,8 +292,8 @@ a.anchor-offset {
 }
 
 .imageModal-content img {
-  max-height: calc(100vh - 75px);
-  max-width: 100%;
+  /*max-height: calc(100vh - 75px);*/
+  /*max-width: 100%;*/
   border-radius: 12px;
 
 }
