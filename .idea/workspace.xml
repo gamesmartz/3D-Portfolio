@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3715c613-d0d8-4c83-9813-941cce58e420" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textures.html" beforeDir="false" afterPath="$PROJECT_DIR$/textures.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/xampp/htdocs/current-portfolio&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/awnol/myapp/my-project/app&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Docker&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -113,7 +114,10 @@
       <workItem from="1681925800745" duration="12000" />
       <workItem from="1683400270818" duration="84000" />
       <workItem from="1683401365301" duration="2178000" />
-      <workItem from="1683407590623" duration="76000" />
+      <workItem from="1683407590623" duration="139000" />
+      <workItem from="1683654121909" duration="799000" />
+      <workItem from="1683764362035" duration="1104000" />
+      <workItem from="1683766094460" duration="780000" />
     </task>
     <servers />
   </component>
