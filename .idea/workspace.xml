@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3715c613-d0d8-4c83-9813-941cce58e420" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programming.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.archive/front-end-dev.html" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/front-end-dev.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.archive/modules/navbar-portfolios.php" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/modules/navbar-portfolios.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.archive/modules/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/modules/navbar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.archive/visualization.html" beforeDir="false" afterPath="$PROJECT_DIR$/.archive/visualization.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/digital-painting/low-poly-texturing-play.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/digital-painting/low-poly-texturing-play.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/digital-painting.html" beforeDir="false" afterPath="$PROJECT_DIR$/digital-painting.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming.html" beforeDir="false" afterPath="$PROJECT_DIR$/programming.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/radience-wow-twitch.html" beforeDir="false" afterPath="$PROJECT_DIR$/radience-wow-twitch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s-parent.html" beforeDir="false" afterPath="$PROJECT_DIR$/s-parent.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/textures.html" beforeDir="false" afterPath="$PROJECT_DIR$/textures.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,16 +37,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/xampp/htdocs/current-portfolio",
-    "settings.editor.selected.configurable": "Docker",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/xampp/htdocs/current-portfolio&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Docker&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\xampp\htdocs\current-portfolio" />
@@ -124,7 +131,8 @@
       <workItem from="1684184542572" duration="2751000" />
       <workItem from="1684364198969" duration="9000" />
       <workItem from="1684437385325" duration="2067000" />
-      <workItem from="1684450244760" duration="1657000" />
+      <workItem from="1684450244760" duration="1817000" />
+      <workItem from="1684809219092" duration="599000" />
     </task>
     <servers />
   </component>

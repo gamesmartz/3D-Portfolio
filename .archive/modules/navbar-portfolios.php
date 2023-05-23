@@ -13,7 +13,7 @@
         <a class="nav-link active" href="#portfolio">Portfolios</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link far-right-nav-margin" href="index#contact">Contact</a>
+        <a class="nav-link far-right-nav-margin" href="https://www.linkedin.com/in/matthew-norkaitis/">Contact</a>
       </li>
     </ul>
   </div>
